@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\Csharp-POO\This\This\bin\Debug\netcoreapp3.1\This.exe
+C:\DesenvolvimentoMayara\Csharp-POO\This\This\bin\Debug\netcoreapp3.1\This.deps.json
+C:\DesenvolvimentoMayara\Csharp-POO\This\This\bin\Debug\netcoreapp3.1\This.runtimeconfig.json
+C:\DesenvolvimentoMayara\Csharp-POO\This\This\bin\Debug\netcoreapp3.1\This.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\Csharp-POO\This\This\bin\Debug\netcoreapp3.1\This.dll
+C:\DesenvolvimentoMayara\Csharp-POO\This\This\bin\Debug\netcoreapp3.1\This.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\This\This\obj\Debug\netcoreapp3.1\This.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\Csharp-POO\This\This\obj\Debug\netcoreapp3.1\This.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\This\This\obj\Debug\netcoreapp3.1\This.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\Csharp-POO\This\This\obj\Debug\netcoreapp3.1\This.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\This\This\obj\Debug\netcoreapp3.1\This.dll
+C:\DesenvolvimentoMayara\Csharp-POO\This\This\obj\Debug\netcoreapp3.1\This.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\This\This\obj\Debug\netcoreapp3.1\This.genruntimeconfig.cache

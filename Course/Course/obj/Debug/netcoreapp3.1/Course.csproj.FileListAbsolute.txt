@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\Csharp-POO\Course\Course\bin\Debug\netcoreapp3.1\Course.exe
+C:\DesenvolvimentoMayara\Csharp-POO\Course\Course\bin\Debug\netcoreapp3.1\Course.deps.json
+C:\DesenvolvimentoMayara\Csharp-POO\Course\Course\bin\Debug\netcoreapp3.1\Course.runtimeconfig.json
+C:\DesenvolvimentoMayara\Csharp-POO\Course\Course\bin\Debug\netcoreapp3.1\Course.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\Csharp-POO\Course\Course\bin\Debug\netcoreapp3.1\Course.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Course\Course\bin\Debug\netcoreapp3.1\Course.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Course\Course\obj\Debug\netcoreapp3.1\Course.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Course\Course\obj\Debug\netcoreapp3.1\Course.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Course\Course\obj\Debug\netcoreapp3.1\Course.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\Csharp-POO\Course\Course\obj\Debug\netcoreapp3.1\Course.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Course\Course\obj\Debug\netcoreapp3.1\Course.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Course\Course\obj\Debug\netcoreapp3.1\Course.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Course\Course\obj\Debug\netcoreapp3.1\Course.genruntimeconfig.cache

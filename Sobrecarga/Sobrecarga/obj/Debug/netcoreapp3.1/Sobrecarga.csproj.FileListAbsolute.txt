@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\Csharp-POO\Sobrecarga\Sobrecarga\bin\Debug\netcoreapp3.1\Sobrecarga.exe
+C:\DesenvolvimentoMayara\Csharp-POO\Sobrecarga\Sobrecarga\bin\Debug\netcoreapp3.1\Sobrecarga.deps.json
+C:\DesenvolvimentoMayara\Csharp-POO\Sobrecarga\Sobrecarga\bin\Debug\netcoreapp3.1\Sobrecarga.runtimeconfig.json
+C:\DesenvolvimentoMayara\Csharp-POO\Sobrecarga\Sobrecarga\bin\Debug\netcoreapp3.1\Sobrecarga.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\Csharp-POO\Sobrecarga\Sobrecarga\bin\Debug\netcoreapp3.1\Sobrecarga.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Sobrecarga\Sobrecarga\bin\Debug\netcoreapp3.1\Sobrecarga.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Sobrecarga\Sobrecarga\obj\Debug\netcoreapp3.1\Sobrecarga.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Sobrecarga\Sobrecarga\obj\Debug\netcoreapp3.1\Sobrecarga.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Sobrecarga\Sobrecarga\obj\Debug\netcoreapp3.1\Sobrecarga.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\Csharp-POO\Sobrecarga\Sobrecarga\obj\Debug\netcoreapp3.1\Sobrecarga.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Sobrecarga\Sobrecarga\obj\Debug\netcoreapp3.1\Sobrecarga.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Sobrecarga\Sobrecarga\obj\Debug\netcoreapp3.1\Sobrecarga.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Sobrecarga\Sobrecarga\obj\Debug\netcoreapp3.1\Sobrecarga.genruntimeconfig.cache

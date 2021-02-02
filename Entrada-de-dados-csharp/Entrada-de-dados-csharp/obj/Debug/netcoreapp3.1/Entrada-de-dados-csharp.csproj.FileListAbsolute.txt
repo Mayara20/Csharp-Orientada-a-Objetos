@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\Csharp-POO\Entrada-de-dados-csharp\Entrada-de-dados-csharp\bin\Debug\netcoreapp3.1\Entrada-de-dados-csharp.exe
+C:\DesenvolvimentoMayara\Csharp-POO\Entrada-de-dados-csharp\Entrada-de-dados-csharp\bin\Debug\netcoreapp3.1\Entrada-de-dados-csharp.deps.json
+C:\DesenvolvimentoMayara\Csharp-POO\Entrada-de-dados-csharp\Entrada-de-dados-csharp\bin\Debug\netcoreapp3.1\Entrada-de-dados-csharp.runtimeconfig.json
+C:\DesenvolvimentoMayara\Csharp-POO\Entrada-de-dados-csharp\Entrada-de-dados-csharp\bin\Debug\netcoreapp3.1\Entrada-de-dados-csharp.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\Csharp-POO\Entrada-de-dados-csharp\Entrada-de-dados-csharp\bin\Debug\netcoreapp3.1\Entrada-de-dados-csharp.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Entrada-de-dados-csharp\Entrada-de-dados-csharp\bin\Debug\netcoreapp3.1\Entrada-de-dados-csharp.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Entrada-de-dados-csharp\Entrada-de-dados-csharp\obj\Debug\netcoreapp3.1\Entrada-de-dados-csharp.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Entrada-de-dados-csharp\Entrada-de-dados-csharp\obj\Debug\netcoreapp3.1\Entrada-de-dados-csharp.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Entrada-de-dados-csharp\Entrada-de-dados-csharp\obj\Debug\netcoreapp3.1\Entrada-de-dados-csharp.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\Csharp-POO\Entrada-de-dados-csharp\Entrada-de-dados-csharp\obj\Debug\netcoreapp3.1\Entrada-de-dados-csharp.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Entrada-de-dados-csharp\Entrada-de-dados-csharp\obj\Debug\netcoreapp3.1\Entrada-de-dados-csharp.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Entrada-de-dados-csharp\Entrada-de-dados-csharp\obj\Debug\netcoreapp3.1\Entrada-de-dados-csharp.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Entrada-de-dados-csharp\Entrada-de-dados-csharp\obj\Debug\netcoreapp3.1\Entrada-de-dados-csharp.genruntimeconfig.cache

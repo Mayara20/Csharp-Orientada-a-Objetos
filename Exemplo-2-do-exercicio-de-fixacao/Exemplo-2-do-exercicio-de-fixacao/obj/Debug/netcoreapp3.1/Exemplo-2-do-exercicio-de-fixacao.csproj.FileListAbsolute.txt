@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\Csharp-POO\Exemplo-2-do-exercicio-de-fixacao\Exemplo-2-do-exercicio-de-fixacao\bin\Debug\netcoreapp3.1\Exemplo-2-do-exercicio-de-fixacao.exe
+C:\DesenvolvimentoMayara\Csharp-POO\Exemplo-2-do-exercicio-de-fixacao\Exemplo-2-do-exercicio-de-fixacao\bin\Debug\netcoreapp3.1\Exemplo-2-do-exercicio-de-fixacao.deps.json
+C:\DesenvolvimentoMayara\Csharp-POO\Exemplo-2-do-exercicio-de-fixacao\Exemplo-2-do-exercicio-de-fixacao\bin\Debug\netcoreapp3.1\Exemplo-2-do-exercicio-de-fixacao.runtimeconfig.json
+C:\DesenvolvimentoMayara\Csharp-POO\Exemplo-2-do-exercicio-de-fixacao\Exemplo-2-do-exercicio-de-fixacao\bin\Debug\netcoreapp3.1\Exemplo-2-do-exercicio-de-fixacao.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\Csharp-POO\Exemplo-2-do-exercicio-de-fixacao\Exemplo-2-do-exercicio-de-fixacao\bin\Debug\netcoreapp3.1\Exemplo-2-do-exercicio-de-fixacao.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Exemplo-2-do-exercicio-de-fixacao\Exemplo-2-do-exercicio-de-fixacao\bin\Debug\netcoreapp3.1\Exemplo-2-do-exercicio-de-fixacao.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Exemplo-2-do-exercicio-de-fixacao\Exemplo-2-do-exercicio-de-fixacao\obj\Debug\netcoreapp3.1\Exemplo-2-do-exercicio-de-fixacao.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Exemplo-2-do-exercicio-de-fixacao\Exemplo-2-do-exercicio-de-fixacao\obj\Debug\netcoreapp3.1\Exemplo-2-do-exercicio-de-fixacao.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Exemplo-2-do-exercicio-de-fixacao\Exemplo-2-do-exercicio-de-fixacao\obj\Debug\netcoreapp3.1\Exemplo-2-do-exercicio-de-fixacao.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\Csharp-POO\Exemplo-2-do-exercicio-de-fixacao\Exemplo-2-do-exercicio-de-fixacao\obj\Debug\netcoreapp3.1\Exemplo-2-do-exercicio-de-fixacao.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Exemplo-2-do-exercicio-de-fixacao\Exemplo-2-do-exercicio-de-fixacao\obj\Debug\netcoreapp3.1\Exemplo-2-do-exercicio-de-fixacao.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Exemplo-2-do-exercicio-de-fixacao\Exemplo-2-do-exercicio-de-fixacao\obj\Debug\netcoreapp3.1\Exemplo-2-do-exercicio-de-fixacao.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Exemplo-2-do-exercicio-de-fixacao\Exemplo-2-do-exercicio-de-fixacao\obj\Debug\netcoreapp3.1\Exemplo-2-do-exercicio-de-fixacao.genruntimeconfig.cache

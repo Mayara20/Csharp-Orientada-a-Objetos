@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\Csharp-POO\Estrutura-Condicional\Estrutura-Condicional\bin\Debug\netcoreapp3.1\Estrutura-Condicional.exe
+C:\DesenvolvimentoMayara\Csharp-POO\Estrutura-Condicional\Estrutura-Condicional\bin\Debug\netcoreapp3.1\Estrutura-Condicional.deps.json
+C:\DesenvolvimentoMayara\Csharp-POO\Estrutura-Condicional\Estrutura-Condicional\bin\Debug\netcoreapp3.1\Estrutura-Condicional.runtimeconfig.json
+C:\DesenvolvimentoMayara\Csharp-POO\Estrutura-Condicional\Estrutura-Condicional\bin\Debug\netcoreapp3.1\Estrutura-Condicional.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\Csharp-POO\Estrutura-Condicional\Estrutura-Condicional\bin\Debug\netcoreapp3.1\Estrutura-Condicional.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Estrutura-Condicional\Estrutura-Condicional\bin\Debug\netcoreapp3.1\Estrutura-Condicional.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Estrutura-Condicional\Estrutura-Condicional\obj\Debug\netcoreapp3.1\Estrutura-Condicional.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Estrutura-Condicional\Estrutura-Condicional\obj\Debug\netcoreapp3.1\Estrutura-Condicional.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Estrutura-Condicional\Estrutura-Condicional\obj\Debug\netcoreapp3.1\Estrutura-Condicional.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\Csharp-POO\Estrutura-Condicional\Estrutura-Condicional\obj\Debug\netcoreapp3.1\Estrutura-Condicional.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Estrutura-Condicional\Estrutura-Condicional\obj\Debug\netcoreapp3.1\Estrutura-Condicional.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Estrutura-Condicional\Estrutura-Condicional\obj\Debug\netcoreapp3.1\Estrutura-Condicional.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Estrutura-Condicional\Estrutura-Condicional\obj\Debug\netcoreapp3.1\Estrutura-Condicional.genruntimeconfig.cache

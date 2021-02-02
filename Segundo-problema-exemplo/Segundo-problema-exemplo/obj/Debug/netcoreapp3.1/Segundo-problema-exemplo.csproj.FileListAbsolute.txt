@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\Csharp-POO\Segundo-problema-exemplo\Segundo-problema-exemplo\bin\Debug\netcoreapp3.1\Segundo-problema-exemplo.exe
+C:\DesenvolvimentoMayara\Csharp-POO\Segundo-problema-exemplo\Segundo-problema-exemplo\bin\Debug\netcoreapp3.1\Segundo-problema-exemplo.deps.json
+C:\DesenvolvimentoMayara\Csharp-POO\Segundo-problema-exemplo\Segundo-problema-exemplo\bin\Debug\netcoreapp3.1\Segundo-problema-exemplo.runtimeconfig.json
+C:\DesenvolvimentoMayara\Csharp-POO\Segundo-problema-exemplo\Segundo-problema-exemplo\bin\Debug\netcoreapp3.1\Segundo-problema-exemplo.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\Csharp-POO\Segundo-problema-exemplo\Segundo-problema-exemplo\bin\Debug\netcoreapp3.1\Segundo-problema-exemplo.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Segundo-problema-exemplo\Segundo-problema-exemplo\bin\Debug\netcoreapp3.1\Segundo-problema-exemplo.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Segundo-problema-exemplo\Segundo-problema-exemplo\obj\Debug\netcoreapp3.1\Segundo-problema-exemplo.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Segundo-problema-exemplo\Segundo-problema-exemplo\obj\Debug\netcoreapp3.1\Segundo-problema-exemplo.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Segundo-problema-exemplo\Segundo-problema-exemplo\obj\Debug\netcoreapp3.1\Segundo-problema-exemplo.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\Csharp-POO\Segundo-problema-exemplo\Segundo-problema-exemplo\obj\Debug\netcoreapp3.1\Segundo-problema-exemplo.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Segundo-problema-exemplo\Segundo-problema-exemplo\obj\Debug\netcoreapp3.1\Segundo-problema-exemplo.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Segundo-problema-exemplo\Segundo-problema-exemplo\obj\Debug\netcoreapp3.1\Segundo-problema-exemplo.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Segundo-problema-exemplo\Segundo-problema-exemplo\obj\Debug\netcoreapp3.1\Segundo-problema-exemplo.genruntimeconfig.cache

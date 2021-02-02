@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\Csharp-POO\Saida-de-dados\Saida-de-dados\bin\Debug\netcoreapp3.1\Saida-de-dados.exe
+C:\DesenvolvimentoMayara\Csharp-POO\Saida-de-dados\Saida-de-dados\bin\Debug\netcoreapp3.1\Saida-de-dados.deps.json
+C:\DesenvolvimentoMayara\Csharp-POO\Saida-de-dados\Saida-de-dados\bin\Debug\netcoreapp3.1\Saida-de-dados.runtimeconfig.json
+C:\DesenvolvimentoMayara\Csharp-POO\Saida-de-dados\Saida-de-dados\bin\Debug\netcoreapp3.1\Saida-de-dados.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\Csharp-POO\Saida-de-dados\Saida-de-dados\bin\Debug\netcoreapp3.1\Saida-de-dados.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Saida-de-dados\Saida-de-dados\bin\Debug\netcoreapp3.1\Saida-de-dados.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Saida-de-dados\Saida-de-dados\obj\Debug\netcoreapp3.1\Saida-de-dados.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Saida-de-dados\Saida-de-dados\obj\Debug\netcoreapp3.1\Saida-de-dados.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Saida-de-dados\Saida-de-dados\obj\Debug\netcoreapp3.1\Saida-de-dados.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\Csharp-POO\Saida-de-dados\Saida-de-dados\obj\Debug\netcoreapp3.1\Saida-de-dados.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Saida-de-dados\Saida-de-dados\obj\Debug\netcoreapp3.1\Saida-de-dados.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Saida-de-dados\Saida-de-dados\obj\Debug\netcoreapp3.1\Saida-de-dados.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Saida-de-dados\Saida-de-dados\obj\Debug\netcoreapp3.1\Saida-de-dados.genruntimeconfig.cache

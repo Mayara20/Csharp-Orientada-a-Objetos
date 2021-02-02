@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\Csharp-POO\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.exe
+C:\DesenvolvimentoMayara\Csharp-POO\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.deps.json
+C:\DesenvolvimentoMayara\Csharp-POO\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.runtimeconfig.json
+C:\DesenvolvimentoMayara\Csharp-POO\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\Csharp-POO\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\Csharp-POO\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.genruntimeconfig.cache

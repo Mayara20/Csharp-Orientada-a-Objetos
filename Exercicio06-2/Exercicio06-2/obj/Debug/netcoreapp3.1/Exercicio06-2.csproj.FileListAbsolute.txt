@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio06-2\Exercicio06-2\bin\Debug\netcoreapp3.1\Exercicio06-2.exe
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio06-2\Exercicio06-2\bin\Debug\netcoreapp3.1\Exercicio06-2.deps.json
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio06-2\Exercicio06-2\bin\Debug\netcoreapp3.1\Exercicio06-2.runtimeconfig.json
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio06-2\Exercicio06-2\bin\Debug\netcoreapp3.1\Exercicio06-2.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio06-2\Exercicio06-2\bin\Debug\netcoreapp3.1\Exercicio06-2.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio06-2\Exercicio06-2\bin\Debug\netcoreapp3.1\Exercicio06-2.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio06-2\Exercicio06-2\obj\Debug\netcoreapp3.1\Exercicio06-2.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio06-2\Exercicio06-2\obj\Debug\netcoreapp3.1\Exercicio06-2.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio06-2\Exercicio06-2\obj\Debug\netcoreapp3.1\Exercicio06-2.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio06-2\Exercicio06-2\obj\Debug\netcoreapp3.1\Exercicio06-2.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio06-2\Exercicio06-2\obj\Debug\netcoreapp3.1\Exercicio06-2.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio06-2\Exercicio06-2\obj\Debug\netcoreapp3.1\Exercicio06-2.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio06-2\Exercicio06-2\obj\Debug\netcoreapp3.1\Exercicio06-2.genruntimeconfig.cache

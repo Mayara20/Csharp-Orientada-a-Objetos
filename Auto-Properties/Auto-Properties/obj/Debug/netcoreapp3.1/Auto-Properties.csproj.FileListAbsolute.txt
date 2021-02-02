@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\Csharp-POO\Auto-Properties\Auto-Properties\bin\Debug\netcoreapp3.1\Auto-Properties.exe
+C:\DesenvolvimentoMayara\Csharp-POO\Auto-Properties\Auto-Properties\bin\Debug\netcoreapp3.1\Auto-Properties.deps.json
+C:\DesenvolvimentoMayara\Csharp-POO\Auto-Properties\Auto-Properties\bin\Debug\netcoreapp3.1\Auto-Properties.runtimeconfig.json
+C:\DesenvolvimentoMayara\Csharp-POO\Auto-Properties\Auto-Properties\bin\Debug\netcoreapp3.1\Auto-Properties.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\Csharp-POO\Auto-Properties\Auto-Properties\bin\Debug\netcoreapp3.1\Auto-Properties.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Auto-Properties\Auto-Properties\bin\Debug\netcoreapp3.1\Auto-Properties.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Auto-Properties\Auto-Properties\obj\Debug\netcoreapp3.1\Auto-Properties.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Auto-Properties\Auto-Properties\obj\Debug\netcoreapp3.1\Auto-Properties.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Auto-Properties\Auto-Properties\obj\Debug\netcoreapp3.1\Auto-Properties.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\Csharp-POO\Auto-Properties\Auto-Properties\obj\Debug\netcoreapp3.1\Auto-Properties.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Auto-Properties\Auto-Properties\obj\Debug\netcoreapp3.1\Auto-Properties.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Auto-Properties\Auto-Properties\obj\Debug\netcoreapp3.1\Auto-Properties.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Auto-Properties\Auto-Properties\obj\Debug\netcoreapp3.1\Auto-Properties.genruntimeconfig.cache

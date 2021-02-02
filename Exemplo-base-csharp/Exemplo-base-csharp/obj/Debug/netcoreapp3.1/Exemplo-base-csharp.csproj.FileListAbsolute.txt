@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\Csharp-POO\Exemplo-base-csharp\Exemplo-base-csharp\bin\Debug\netcoreapp3.1\Exemplo-base-csharp.exe
+C:\DesenvolvimentoMayara\Csharp-POO\Exemplo-base-csharp\Exemplo-base-csharp\bin\Debug\netcoreapp3.1\Exemplo-base-csharp.deps.json
+C:\DesenvolvimentoMayara\Csharp-POO\Exemplo-base-csharp\Exemplo-base-csharp\bin\Debug\netcoreapp3.1\Exemplo-base-csharp.runtimeconfig.json
+C:\DesenvolvimentoMayara\Csharp-POO\Exemplo-base-csharp\Exemplo-base-csharp\bin\Debug\netcoreapp3.1\Exemplo-base-csharp.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\Csharp-POO\Exemplo-base-csharp\Exemplo-base-csharp\bin\Debug\netcoreapp3.1\Exemplo-base-csharp.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Exemplo-base-csharp\Exemplo-base-csharp\bin\Debug\netcoreapp3.1\Exemplo-base-csharp.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Exemplo-base-csharp\Exemplo-base-csharp\obj\Debug\netcoreapp3.1\Exemplo-base-csharp.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Exemplo-base-csharp\Exemplo-base-csharp\obj\Debug\netcoreapp3.1\Exemplo-base-csharp.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Exemplo-base-csharp\Exemplo-base-csharp\obj\Debug\netcoreapp3.1\Exemplo-base-csharp.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\Csharp-POO\Exemplo-base-csharp\Exemplo-base-csharp\obj\Debug\netcoreapp3.1\Exemplo-base-csharp.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Exemplo-base-csharp\Exemplo-base-csharp\obj\Debug\netcoreapp3.1\Exemplo-base-csharp.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Exemplo-base-csharp\Exemplo-base-csharp\obj\Debug\netcoreapp3.1\Exemplo-base-csharp.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Exemplo-base-csharp\Exemplo-base-csharp\obj\Debug\netcoreapp3.1\Exemplo-base-csharp.genruntimeconfig.cache

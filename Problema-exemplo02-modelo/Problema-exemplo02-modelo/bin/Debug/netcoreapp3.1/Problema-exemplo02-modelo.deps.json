@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Problema-exemplo02-modelo/1.0.0": {
+        "runtime": {
+          "Problema-exemplo02-modelo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Problema-exemplo02-modelo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

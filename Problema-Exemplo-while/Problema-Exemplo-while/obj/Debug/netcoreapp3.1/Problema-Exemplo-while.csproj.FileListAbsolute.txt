@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\Csharp-POO\Problema-Exemplo-while\Problema-Exemplo-while\bin\Debug\netcoreapp3.1\Problema-Exemplo-while.exe
+C:\DesenvolvimentoMayara\Csharp-POO\Problema-Exemplo-while\Problema-Exemplo-while\bin\Debug\netcoreapp3.1\Problema-Exemplo-while.deps.json
+C:\DesenvolvimentoMayara\Csharp-POO\Problema-Exemplo-while\Problema-Exemplo-while\bin\Debug\netcoreapp3.1\Problema-Exemplo-while.runtimeconfig.json
+C:\DesenvolvimentoMayara\Csharp-POO\Problema-Exemplo-while\Problema-Exemplo-while\bin\Debug\netcoreapp3.1\Problema-Exemplo-while.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\Csharp-POO\Problema-Exemplo-while\Problema-Exemplo-while\bin\Debug\netcoreapp3.1\Problema-Exemplo-while.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Problema-Exemplo-while\Problema-Exemplo-while\bin\Debug\netcoreapp3.1\Problema-Exemplo-while.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Problema-Exemplo-while\Problema-Exemplo-while\obj\Debug\netcoreapp3.1\Problema-Exemplo-while.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Problema-Exemplo-while\Problema-Exemplo-while\obj\Debug\netcoreapp3.1\Problema-Exemplo-while.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Problema-Exemplo-while\Problema-Exemplo-while\obj\Debug\netcoreapp3.1\Problema-Exemplo-while.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\Csharp-POO\Problema-Exemplo-while\Problema-Exemplo-while\obj\Debug\netcoreapp3.1\Problema-Exemplo-while.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Problema-Exemplo-while\Problema-Exemplo-while\obj\Debug\netcoreapp3.1\Problema-Exemplo-while.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Problema-Exemplo-while\Problema-Exemplo-while\obj\Debug\netcoreapp3.1\Problema-Exemplo-while.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Problema-Exemplo-while\Problema-Exemplo-while\obj\Debug\netcoreapp3.1\Problema-Exemplo-while.genruntimeconfig.cache

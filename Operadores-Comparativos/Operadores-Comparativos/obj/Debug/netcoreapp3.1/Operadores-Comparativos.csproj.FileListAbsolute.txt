@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\Csharp-POO\Operadores-Comparativos\Operadores-Comparativos\bin\Debug\netcoreapp3.1\Operadores-Comparativos.exe
+C:\DesenvolvimentoMayara\Csharp-POO\Operadores-Comparativos\Operadores-Comparativos\bin\Debug\netcoreapp3.1\Operadores-Comparativos.deps.json
+C:\DesenvolvimentoMayara\Csharp-POO\Operadores-Comparativos\Operadores-Comparativos\bin\Debug\netcoreapp3.1\Operadores-Comparativos.runtimeconfig.json
+C:\DesenvolvimentoMayara\Csharp-POO\Operadores-Comparativos\Operadores-Comparativos\bin\Debug\netcoreapp3.1\Operadores-Comparativos.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\Csharp-POO\Operadores-Comparativos\Operadores-Comparativos\bin\Debug\netcoreapp3.1\Operadores-Comparativos.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Operadores-Comparativos\Operadores-Comparativos\bin\Debug\netcoreapp3.1\Operadores-Comparativos.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Operadores-Comparativos\Operadores-Comparativos\obj\Debug\netcoreapp3.1\Operadores-Comparativos.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Operadores-Comparativos\Operadores-Comparativos\obj\Debug\netcoreapp3.1\Operadores-Comparativos.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Operadores-Comparativos\Operadores-Comparativos\obj\Debug\netcoreapp3.1\Operadores-Comparativos.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\Csharp-POO\Operadores-Comparativos\Operadores-Comparativos\obj\Debug\netcoreapp3.1\Operadores-Comparativos.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Operadores-Comparativos\Operadores-Comparativos\obj\Debug\netcoreapp3.1\Operadores-Comparativos.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Operadores-Comparativos\Operadores-Comparativos\obj\Debug\netcoreapp3.1\Operadores-Comparativos.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Operadores-Comparativos\Operadores-Comparativos\obj\Debug\netcoreapp3.1\Operadores-Comparativos.genruntimeconfig.cache

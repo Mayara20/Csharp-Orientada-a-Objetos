@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\Csharp-POO\Operadores-Aritmeticos\Operadores-Aritmeticos\bin\Debug\netcoreapp3.1\Operadores-Aritmeticos.exe
+C:\DesenvolvimentoMayara\Csharp-POO\Operadores-Aritmeticos\Operadores-Aritmeticos\bin\Debug\netcoreapp3.1\Operadores-Aritmeticos.deps.json
+C:\DesenvolvimentoMayara\Csharp-POO\Operadores-Aritmeticos\Operadores-Aritmeticos\bin\Debug\netcoreapp3.1\Operadores-Aritmeticos.runtimeconfig.json
+C:\DesenvolvimentoMayara\Csharp-POO\Operadores-Aritmeticos\Operadores-Aritmeticos\bin\Debug\netcoreapp3.1\Operadores-Aritmeticos.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\Csharp-POO\Operadores-Aritmeticos\Operadores-Aritmeticos\bin\Debug\netcoreapp3.1\Operadores-Aritmeticos.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Operadores-Aritmeticos\Operadores-Aritmeticos\bin\Debug\netcoreapp3.1\Operadores-Aritmeticos.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Operadores-Aritmeticos\Operadores-Aritmeticos\obj\Debug\netcoreapp3.1\Operadores-Aritmeticos.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Operadores-Aritmeticos\Operadores-Aritmeticos\obj\Debug\netcoreapp3.1\Operadores-Aritmeticos.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Operadores-Aritmeticos\Operadores-Aritmeticos\obj\Debug\netcoreapp3.1\Operadores-Aritmeticos.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\Csharp-POO\Operadores-Aritmeticos\Operadores-Aritmeticos\obj\Debug\netcoreapp3.1\Operadores-Aritmeticos.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Operadores-Aritmeticos\Operadores-Aritmeticos\obj\Debug\netcoreapp3.1\Operadores-Aritmeticos.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Operadores-Aritmeticos\Operadores-Aritmeticos\obj\Debug\netcoreapp3.1\Operadores-Aritmeticos.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Operadores-Aritmeticos\Operadores-Aritmeticos\obj\Debug\netcoreapp3.1\Operadores-Aritmeticos.genruntimeconfig.cache

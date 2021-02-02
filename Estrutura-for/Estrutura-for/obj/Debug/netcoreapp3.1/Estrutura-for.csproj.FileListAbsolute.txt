@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\Csharp-POO\Estrutura-for\Estrutura-for\bin\Debug\netcoreapp3.1\Estrutura-for.exe
+C:\DesenvolvimentoMayara\Csharp-POO\Estrutura-for\Estrutura-for\bin\Debug\netcoreapp3.1\Estrutura-for.deps.json
+C:\DesenvolvimentoMayara\Csharp-POO\Estrutura-for\Estrutura-for\bin\Debug\netcoreapp3.1\Estrutura-for.runtimeconfig.json
+C:\DesenvolvimentoMayara\Csharp-POO\Estrutura-for\Estrutura-for\bin\Debug\netcoreapp3.1\Estrutura-for.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\Csharp-POO\Estrutura-for\Estrutura-for\bin\Debug\netcoreapp3.1\Estrutura-for.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Estrutura-for\Estrutura-for\bin\Debug\netcoreapp3.1\Estrutura-for.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Estrutura-for\Estrutura-for\obj\Debug\netcoreapp3.1\Estrutura-for.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Estrutura-for\Estrutura-for\obj\Debug\netcoreapp3.1\Estrutura-for.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Estrutura-for\Estrutura-for\obj\Debug\netcoreapp3.1\Estrutura-for.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\Csharp-POO\Estrutura-for\Estrutura-for\obj\Debug\netcoreapp3.1\Estrutura-for.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Estrutura-for\Estrutura-for\obj\Debug\netcoreapp3.1\Estrutura-for.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Estrutura-for\Estrutura-for\obj\Debug\netcoreapp3.1\Estrutura-for.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Estrutura-for\Estrutura-for\obj\Debug\netcoreapp3.1\Estrutura-for.genruntimeconfig.cache

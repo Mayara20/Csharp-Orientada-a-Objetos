@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-proposto-Membros-Estaticos\Exercicio-proposto-Membros-Estaticos\bin\Debug\netcoreapp3.1\Exercicio-proposto-Membros-Estaticos.exe
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-proposto-Membros-Estaticos\Exercicio-proposto-Membros-Estaticos\bin\Debug\netcoreapp3.1\Exercicio-proposto-Membros-Estaticos.deps.json
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-proposto-Membros-Estaticos\Exercicio-proposto-Membros-Estaticos\bin\Debug\netcoreapp3.1\Exercicio-proposto-Membros-Estaticos.runtimeconfig.json
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-proposto-Membros-Estaticos\Exercicio-proposto-Membros-Estaticos\bin\Debug\netcoreapp3.1\Exercicio-proposto-Membros-Estaticos.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-proposto-Membros-Estaticos\Exercicio-proposto-Membros-Estaticos\bin\Debug\netcoreapp3.1\Exercicio-proposto-Membros-Estaticos.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-proposto-Membros-Estaticos\Exercicio-proposto-Membros-Estaticos\bin\Debug\netcoreapp3.1\Exercicio-proposto-Membros-Estaticos.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-proposto-Membros-Estaticos\Exercicio-proposto-Membros-Estaticos\obj\Debug\netcoreapp3.1\Exercicio-proposto-Membros-Estaticos.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-proposto-Membros-Estaticos\Exercicio-proposto-Membros-Estaticos\obj\Debug\netcoreapp3.1\Exercicio-proposto-Membros-Estaticos.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-proposto-Membros-Estaticos\Exercicio-proposto-Membros-Estaticos\obj\Debug\netcoreapp3.1\Exercicio-proposto-Membros-Estaticos.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-proposto-Membros-Estaticos\Exercicio-proposto-Membros-Estaticos\obj\Debug\netcoreapp3.1\Exercicio-proposto-Membros-Estaticos.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-proposto-Membros-Estaticos\Exercicio-proposto-Membros-Estaticos\obj\Debug\netcoreapp3.1\Exercicio-proposto-Membros-Estaticos.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-proposto-Membros-Estaticos\Exercicio-proposto-Membros-Estaticos\obj\Debug\netcoreapp3.1\Exercicio-proposto-Membros-Estaticos.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-proposto-Membros-Estaticos\Exercicio-proposto-Membros-Estaticos\obj\Debug\netcoreapp3.1\Exercicio-proposto-Membros-Estaticos.genruntimeconfig.cache

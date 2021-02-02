@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\Csharp-POO\Tipos-Basicos-de-dados\Tipos-Basicos-de-dados\bin\Debug\netcoreapp3.1\Tipos-Basicos-de-dados.exe
+C:\DesenvolvimentoMayara\Csharp-POO\Tipos-Basicos-de-dados\Tipos-Basicos-de-dados\bin\Debug\netcoreapp3.1\Tipos-Basicos-de-dados.deps.json
+C:\DesenvolvimentoMayara\Csharp-POO\Tipos-Basicos-de-dados\Tipos-Basicos-de-dados\bin\Debug\netcoreapp3.1\Tipos-Basicos-de-dados.runtimeconfig.json
+C:\DesenvolvimentoMayara\Csharp-POO\Tipos-Basicos-de-dados\Tipos-Basicos-de-dados\bin\Debug\netcoreapp3.1\Tipos-Basicos-de-dados.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\Csharp-POO\Tipos-Basicos-de-dados\Tipos-Basicos-de-dados\bin\Debug\netcoreapp3.1\Tipos-Basicos-de-dados.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Tipos-Basicos-de-dados\Tipos-Basicos-de-dados\bin\Debug\netcoreapp3.1\Tipos-Basicos-de-dados.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Tipos-Basicos-de-dados\Tipos-Basicos-de-dados\obj\Debug\netcoreapp3.1\Tipos-Basicos-de-dados.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Tipos-Basicos-de-dados\Tipos-Basicos-de-dados\obj\Debug\netcoreapp3.1\Tipos-Basicos-de-dados.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Tipos-Basicos-de-dados\Tipos-Basicos-de-dados\obj\Debug\netcoreapp3.1\Tipos-Basicos-de-dados.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\Csharp-POO\Tipos-Basicos-de-dados\Tipos-Basicos-de-dados\obj\Debug\netcoreapp3.1\Tipos-Basicos-de-dados.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Tipos-Basicos-de-dados\Tipos-Basicos-de-dados\obj\Debug\netcoreapp3.1\Tipos-Basicos-de-dados.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Tipos-Basicos-de-dados\Tipos-Basicos-de-dados\obj\Debug\netcoreapp3.1\Tipos-Basicos-de-dados.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Tipos-Basicos-de-dados\Tipos-Basicos-de-dados\obj\Debug\netcoreapp3.1\Tipos-Basicos-de-dados.genruntimeconfig.cache

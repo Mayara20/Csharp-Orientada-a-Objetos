@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-fixacao\Exercicio-fixacao\bin\Debug\netcoreapp3.1\Exercicio-fixacao.exe
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-fixacao\Exercicio-fixacao\bin\Debug\netcoreapp3.1\Exercicio-fixacao.deps.json
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-fixacao\Exercicio-fixacao\bin\Debug\netcoreapp3.1\Exercicio-fixacao.runtimeconfig.json
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-fixacao\Exercicio-fixacao\bin\Debug\netcoreapp3.1\Exercicio-fixacao.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-fixacao\Exercicio-fixacao\bin\Debug\netcoreapp3.1\Exercicio-fixacao.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-fixacao\Exercicio-fixacao\bin\Debug\netcoreapp3.1\Exercicio-fixacao.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-fixacao\Exercicio-fixacao\obj\Debug\netcoreapp3.1\Exercicio-fixacao.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-fixacao\Exercicio-fixacao\obj\Debug\netcoreapp3.1\Exercicio-fixacao.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-fixacao\Exercicio-fixacao\obj\Debug\netcoreapp3.1\Exercicio-fixacao.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-fixacao\Exercicio-fixacao\obj\Debug\netcoreapp3.1\Exercicio-fixacao.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-fixacao\Exercicio-fixacao\obj\Debug\netcoreapp3.1\Exercicio-fixacao.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-fixacao\Exercicio-fixacao\obj\Debug\netcoreapp3.1\Exercicio-fixacao.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-fixacao\Exercicio-fixacao\obj\Debug\netcoreapp3.1\Exercicio-fixacao.genruntimeconfig.cache
