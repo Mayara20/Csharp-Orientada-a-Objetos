@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\Csharp-POO\modificadorParametros\modificadorParametros\bin\Debug\netcoreapp3.1\modificadorParametros.exe
+C:\DesenvolvimentoMayara\Csharp-POO\modificadorParametros\modificadorParametros\bin\Debug\netcoreapp3.1\modificadorParametros.deps.json
+C:\DesenvolvimentoMayara\Csharp-POO\modificadorParametros\modificadorParametros\bin\Debug\netcoreapp3.1\modificadorParametros.runtimeconfig.json
+C:\DesenvolvimentoMayara\Csharp-POO\modificadorParametros\modificadorParametros\bin\Debug\netcoreapp3.1\modificadorParametros.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\Csharp-POO\modificadorParametros\modificadorParametros\bin\Debug\netcoreapp3.1\modificadorParametros.dll
+C:\DesenvolvimentoMayara\Csharp-POO\modificadorParametros\modificadorParametros\bin\Debug\netcoreapp3.1\modificadorParametros.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\modificadorParametros\modificadorParametros\obj\Debug\netcoreapp3.1\modificadorParametros.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\Csharp-POO\modificadorParametros\modificadorParametros\obj\Debug\netcoreapp3.1\modificadorParametros.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\modificadorParametros\modificadorParametros\obj\Debug\netcoreapp3.1\modificadorParametros.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\Csharp-POO\modificadorParametros\modificadorParametros\obj\Debug\netcoreapp3.1\modificadorParametros.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\modificadorParametros\modificadorParametros\obj\Debug\netcoreapp3.1\modificadorParametros.dll
+C:\DesenvolvimentoMayara\Csharp-POO\modificadorParametros\modificadorParametros\obj\Debug\netcoreapp3.1\modificadorParametros.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\modificadorParametros\modificadorParametros\obj\Debug\netcoreapp3.1\modificadorParametros.genruntimeconfig.cache

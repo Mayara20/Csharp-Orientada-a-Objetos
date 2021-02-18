@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DesenvolvimentoMayara\\Csharp-POO\\Sintaxe-alternativa-para-inicializar\\Sintaxe-alternativa-para-inicializar\\Sintaxe-alternativa-para-inicializar.csproj": {}
+    "C:\\DesenvolvimentoMayara\\Csharp-POO\\Csharp-Orientada-a-Objetos\\Sintaxe-alternativa-para-inicializar\\Sintaxe-alternativa-para-inicializar\\Sintaxe-alternativa-para-inicializar.csproj": {}
   },
   "projects": {
-    "C:\\DesenvolvimentoMayara\\Csharp-POO\\Sintaxe-alternativa-para-inicializar\\Sintaxe-alternativa-para-inicializar\\Sintaxe-alternativa-para-inicializar.csproj": {
+    "C:\\DesenvolvimentoMayara\\Csharp-POO\\Csharp-Orientada-a-Objetos\\Sintaxe-alternativa-para-inicializar\\Sintaxe-alternativa-para-inicializar\\Sintaxe-alternativa-para-inicializar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DesenvolvimentoMayara\\Csharp-POO\\Sintaxe-alternativa-para-inicializar\\Sintaxe-alternativa-para-inicializar\\Sintaxe-alternativa-para-inicializar.csproj",
+        "projectUniqueName": "C:\\DesenvolvimentoMayara\\Csharp-POO\\Csharp-Orientada-a-Objetos\\Sintaxe-alternativa-para-inicializar\\Sintaxe-alternativa-para-inicializar\\Sintaxe-alternativa-para-inicializar.csproj",
         "projectName": "Sintaxe-alternativa-para-inicializar",
-        "projectPath": "C:\\DesenvolvimentoMayara\\Csharp-POO\\Sintaxe-alternativa-para-inicializar\\Sintaxe-alternativa-para-inicializar\\Sintaxe-alternativa-para-inicializar.csproj",
+        "projectPath": "C:\\DesenvolvimentoMayara\\Csharp-POO\\Csharp-Orientada-a-Objetos\\Sintaxe-alternativa-para-inicializar\\Sintaxe-alternativa-para-inicializar\\Sintaxe-alternativa-para-inicializar.csproj",
         "packagesPath": "C:\\Users\\Larissa\\.nuget\\packages\\",
-        "outputPath": "C:\\DesenvolvimentoMayara\\Csharp-POO\\Sintaxe-alternativa-para-inicializar\\Sintaxe-alternativa-para-inicializar\\obj\\",
+        "outputPath": "C:\\DesenvolvimentoMayara\\Csharp-POO\\Csharp-Orientada-a-Objetos\\Sintaxe-alternativa-para-inicializar\\Sintaxe-alternativa-para-inicializar\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Larissa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }

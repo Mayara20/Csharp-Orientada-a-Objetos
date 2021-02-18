@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\Csharp-POO\nullable\nullable\obj\Debug\netcoreapp3.1\nullable.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\Csharp-POO\nullable\nullable\obj\Debug\netcoreapp3.1\nullable.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\nullable\nullable\obj\Debug\netcoreapp3.1\nullable.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\Csharp-POO\nullable\nullable\obj\Debug\netcoreapp3.1\nullable.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\nullable\nullable\bin\Debug\netcoreapp3.1\nullable.exe
+C:\DesenvolvimentoMayara\Csharp-POO\nullable\nullable\bin\Debug\netcoreapp3.1\nullable.deps.json
+C:\DesenvolvimentoMayara\Csharp-POO\nullable\nullable\bin\Debug\netcoreapp3.1\nullable.runtimeconfig.json
+C:\DesenvolvimentoMayara\Csharp-POO\nullable\nullable\bin\Debug\netcoreapp3.1\nullable.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\Csharp-POO\nullable\nullable\bin\Debug\netcoreapp3.1\nullable.dll
+C:\DesenvolvimentoMayara\Csharp-POO\nullable\nullable\bin\Debug\netcoreapp3.1\nullable.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\nullable\nullable\obj\Debug\netcoreapp3.1\nullable.dll
+C:\DesenvolvimentoMayara\Csharp-POO\nullable\nullable\obj\Debug\netcoreapp3.1\nullable.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\nullable\nullable\obj\Debug\netcoreapp3.1\nullable.genruntimeconfig.cache

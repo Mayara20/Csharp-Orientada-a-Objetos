@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\Csharp-POO\Modificador-de-parametros-ref\Modificador-de-parametros-ref\bin\Debug\netcoreapp3.1\Modificador-de-parametros-ref.exe
+C:\DesenvolvimentoMayara\Csharp-POO\Modificador-de-parametros-ref\Modificador-de-parametros-ref\bin\Debug\netcoreapp3.1\Modificador-de-parametros-ref.deps.json
+C:\DesenvolvimentoMayara\Csharp-POO\Modificador-de-parametros-ref\Modificador-de-parametros-ref\bin\Debug\netcoreapp3.1\Modificador-de-parametros-ref.runtimeconfig.json
+C:\DesenvolvimentoMayara\Csharp-POO\Modificador-de-parametros-ref\Modificador-de-parametros-ref\bin\Debug\netcoreapp3.1\Modificador-de-parametros-ref.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\Csharp-POO\Modificador-de-parametros-ref\Modificador-de-parametros-ref\bin\Debug\netcoreapp3.1\Modificador-de-parametros-ref.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Modificador-de-parametros-ref\Modificador-de-parametros-ref\bin\Debug\netcoreapp3.1\Modificador-de-parametros-ref.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Modificador-de-parametros-ref\Modificador-de-parametros-ref\obj\Debug\netcoreapp3.1\Modificador-de-parametros-ref.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Modificador-de-parametros-ref\Modificador-de-parametros-ref\obj\Debug\netcoreapp3.1\Modificador-de-parametros-ref.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Modificador-de-parametros-ref\Modificador-de-parametros-ref\obj\Debug\netcoreapp3.1\Modificador-de-parametros-ref.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\Csharp-POO\Modificador-de-parametros-ref\Modificador-de-parametros-ref\obj\Debug\netcoreapp3.1\Modificador-de-parametros-ref.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Modificador-de-parametros-ref\Modificador-de-parametros-ref\obj\Debug\netcoreapp3.1\Modificador-de-parametros-ref.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Modificador-de-parametros-ref\Modificador-de-parametros-ref\obj\Debug\netcoreapp3.1\Modificador-de-parametros-ref.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Modificador-de-parametros-ref\Modificador-de-parametros-ref\obj\Debug\netcoreapp3.1\Modificador-de-parametros-ref.genruntimeconfig.cache

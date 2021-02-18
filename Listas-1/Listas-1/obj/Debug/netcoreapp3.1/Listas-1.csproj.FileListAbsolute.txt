@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\Csharp-POO\Listas-1\Listas-1\bin\Debug\netcoreapp3.1\Listas-1.exe
+C:\DesenvolvimentoMayara\Csharp-POO\Listas-1\Listas-1\bin\Debug\netcoreapp3.1\Listas-1.deps.json
+C:\DesenvolvimentoMayara\Csharp-POO\Listas-1\Listas-1\bin\Debug\netcoreapp3.1\Listas-1.runtimeconfig.json
+C:\DesenvolvimentoMayara\Csharp-POO\Listas-1\Listas-1\bin\Debug\netcoreapp3.1\Listas-1.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\Csharp-POO\Listas-1\Listas-1\bin\Debug\netcoreapp3.1\Listas-1.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Listas-1\Listas-1\bin\Debug\netcoreapp3.1\Listas-1.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Listas-1\Listas-1\obj\Debug\netcoreapp3.1\Listas-1.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Listas-1\Listas-1\obj\Debug\netcoreapp3.1\Listas-1.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Listas-1\Listas-1\obj\Debug\netcoreapp3.1\Listas-1.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\Csharp-POO\Listas-1\Listas-1\obj\Debug\netcoreapp3.1\Listas-1.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Listas-1\Listas-1\obj\Debug\netcoreapp3.1\Listas-1.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Listas-1\Listas-1\obj\Debug\netcoreapp3.1\Listas-1.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Listas-1\Listas-1\obj\Debug\netcoreapp3.1\Listas-1.genruntimeconfig.cache

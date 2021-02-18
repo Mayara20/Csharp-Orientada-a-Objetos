@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\Csharp-POO\aulaStructs\aulaStructs\bin\Debug\netcoreapp3.1\aulaStructs.exe
+C:\DesenvolvimentoMayara\Csharp-POO\aulaStructs\aulaStructs\bin\Debug\netcoreapp3.1\aulaStructs.deps.json
+C:\DesenvolvimentoMayara\Csharp-POO\aulaStructs\aulaStructs\bin\Debug\netcoreapp3.1\aulaStructs.runtimeconfig.json
+C:\DesenvolvimentoMayara\Csharp-POO\aulaStructs\aulaStructs\bin\Debug\netcoreapp3.1\aulaStructs.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\Csharp-POO\aulaStructs\aulaStructs\bin\Debug\netcoreapp3.1\aulaStructs.dll
+C:\DesenvolvimentoMayara\Csharp-POO\aulaStructs\aulaStructs\bin\Debug\netcoreapp3.1\aulaStructs.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\aulaStructs\aulaStructs\obj\Debug\netcoreapp3.1\aulaStructs.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\Csharp-POO\aulaStructs\aulaStructs\obj\Debug\netcoreapp3.1\aulaStructs.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\aulaStructs\aulaStructs\obj\Debug\netcoreapp3.1\aulaStructs.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\Csharp-POO\aulaStructs\aulaStructs\obj\Debug\netcoreapp3.1\aulaStructs.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\aulaStructs\aulaStructs\obj\Debug\netcoreapp3.1\aulaStructs.dll
+C:\DesenvolvimentoMayara\Csharp-POO\aulaStructs\aulaStructs\obj\Debug\netcoreapp3.1\aulaStructs.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\aulaStructs\aulaStructs\obj\Debug\netcoreapp3.1\aulaStructs.genruntimeconfig.cache

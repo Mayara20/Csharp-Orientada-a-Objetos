@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\Csharp-POO\Vetores-em-classe2\Vetores-em-classe2\bin\Debug\netcoreapp3.1\Vetores-em-classe2.exe
+C:\DesenvolvimentoMayara\Csharp-POO\Vetores-em-classe2\Vetores-em-classe2\bin\Debug\netcoreapp3.1\Vetores-em-classe2.deps.json
+C:\DesenvolvimentoMayara\Csharp-POO\Vetores-em-classe2\Vetores-em-classe2\bin\Debug\netcoreapp3.1\Vetores-em-classe2.runtimeconfig.json
+C:\DesenvolvimentoMayara\Csharp-POO\Vetores-em-classe2\Vetores-em-classe2\bin\Debug\netcoreapp3.1\Vetores-em-classe2.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\Csharp-POO\Vetores-em-classe2\Vetores-em-classe2\bin\Debug\netcoreapp3.1\Vetores-em-classe2.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Vetores-em-classe2\Vetores-em-classe2\bin\Debug\netcoreapp3.1\Vetores-em-classe2.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Vetores-em-classe2\Vetores-em-classe2\obj\Debug\netcoreapp3.1\Vetores-em-classe2.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Vetores-em-classe2\Vetores-em-classe2\obj\Debug\netcoreapp3.1\Vetores-em-classe2.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Vetores-em-classe2\Vetores-em-classe2\obj\Debug\netcoreapp3.1\Vetores-em-classe2.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\Csharp-POO\Vetores-em-classe2\Vetores-em-classe2\obj\Debug\netcoreapp3.1\Vetores-em-classe2.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Vetores-em-classe2\Vetores-em-classe2\obj\Debug\netcoreapp3.1\Vetores-em-classe2.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Vetores-em-classe2\Vetores-em-classe2\obj\Debug\netcoreapp3.1\Vetores-em-classe2.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Vetores-em-classe2\Vetores-em-classe2\obj\Debug\netcoreapp3.1\Vetores-em-classe2.genruntimeconfig.cache

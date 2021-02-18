@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\Csharp-POO\teste-vetores\teste-vetores\bin\Debug\netcoreapp3.1\teste-vetores.exe
+C:\DesenvolvimentoMayara\Csharp-POO\teste-vetores\teste-vetores\bin\Debug\netcoreapp3.1\teste-vetores.deps.json
+C:\DesenvolvimentoMayara\Csharp-POO\teste-vetores\teste-vetores\bin\Debug\netcoreapp3.1\teste-vetores.runtimeconfig.json
+C:\DesenvolvimentoMayara\Csharp-POO\teste-vetores\teste-vetores\bin\Debug\netcoreapp3.1\teste-vetores.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\Csharp-POO\teste-vetores\teste-vetores\bin\Debug\netcoreapp3.1\teste-vetores.dll
+C:\DesenvolvimentoMayara\Csharp-POO\teste-vetores\teste-vetores\bin\Debug\netcoreapp3.1\teste-vetores.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\teste-vetores\teste-vetores\obj\Debug\netcoreapp3.1\teste-vetores.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\Csharp-POO\teste-vetores\teste-vetores\obj\Debug\netcoreapp3.1\teste-vetores.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\teste-vetores\teste-vetores\obj\Debug\netcoreapp3.1\teste-vetores.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\Csharp-POO\teste-vetores\teste-vetores\obj\Debug\netcoreapp3.1\teste-vetores.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\teste-vetores\teste-vetores\obj\Debug\netcoreapp3.1\teste-vetores.dll
+C:\DesenvolvimentoMayara\Csharp-POO\teste-vetores\teste-vetores\obj\Debug\netcoreapp3.1\teste-vetores.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\teste-vetores\teste-vetores\obj\Debug\netcoreapp3.1\teste-vetores.genruntimeconfig.cache

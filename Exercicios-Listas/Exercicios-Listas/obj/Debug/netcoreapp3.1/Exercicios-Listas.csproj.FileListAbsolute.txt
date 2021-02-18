@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicios-Listas\Exercicios-Listas\bin\Debug\netcoreapp3.1\Exercicios-Listas.exe
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicios-Listas\Exercicios-Listas\bin\Debug\netcoreapp3.1\Exercicios-Listas.deps.json
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicios-Listas\Exercicios-Listas\bin\Debug\netcoreapp3.1\Exercicios-Listas.runtimeconfig.json
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicios-Listas\Exercicios-Listas\bin\Debug\netcoreapp3.1\Exercicios-Listas.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicios-Listas\Exercicios-Listas\bin\Debug\netcoreapp3.1\Exercicios-Listas.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicios-Listas\Exercicios-Listas\bin\Debug\netcoreapp3.1\Exercicios-Listas.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicios-Listas\Exercicios-Listas\obj\Debug\netcoreapp3.1\Exercicios-Listas.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicios-Listas\Exercicios-Listas\obj\Debug\netcoreapp3.1\Exercicios-Listas.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicios-Listas\Exercicios-Listas\obj\Debug\netcoreapp3.1\Exercicios-Listas.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicios-Listas\Exercicios-Listas\obj\Debug\netcoreapp3.1\Exercicios-Listas.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicios-Listas\Exercicios-Listas\obj\Debug\netcoreapp3.1\Exercicios-Listas.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicios-Listas\Exercicios-Listas\obj\Debug\netcoreapp3.1\Exercicios-Listas.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicios-Listas\Exercicios-Listas\obj\Debug\netcoreapp3.1\Exercicios-Listas.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\Csharp-POO\Referencia-vs-tipo_valor\Referencia-vs-tipo_valor\bin\Debug\netcoreapp3.1\Referencia-vs-tipo_valor.exe
+C:\DesenvolvimentoMayara\Csharp-POO\Referencia-vs-tipo_valor\Referencia-vs-tipo_valor\bin\Debug\netcoreapp3.1\Referencia-vs-tipo_valor.deps.json
+C:\DesenvolvimentoMayara\Csharp-POO\Referencia-vs-tipo_valor\Referencia-vs-tipo_valor\bin\Debug\netcoreapp3.1\Referencia-vs-tipo_valor.runtimeconfig.json
+C:\DesenvolvimentoMayara\Csharp-POO\Referencia-vs-tipo_valor\Referencia-vs-tipo_valor\bin\Debug\netcoreapp3.1\Referencia-vs-tipo_valor.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\Csharp-POO\Referencia-vs-tipo_valor\Referencia-vs-tipo_valor\bin\Debug\netcoreapp3.1\Referencia-vs-tipo_valor.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Referencia-vs-tipo_valor\Referencia-vs-tipo_valor\bin\Debug\netcoreapp3.1\Referencia-vs-tipo_valor.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Referencia-vs-tipo_valor\Referencia-vs-tipo_valor\obj\Debug\netcoreapp3.1\Referencia-vs-tipo_valor.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Referencia-vs-tipo_valor\Referencia-vs-tipo_valor\obj\Debug\netcoreapp3.1\Referencia-vs-tipo_valor.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Referencia-vs-tipo_valor\Referencia-vs-tipo_valor\obj\Debug\netcoreapp3.1\Referencia-vs-tipo_valor.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\Csharp-POO\Referencia-vs-tipo_valor\Referencia-vs-tipo_valor\obj\Debug\netcoreapp3.1\Referencia-vs-tipo_valor.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Referencia-vs-tipo_valor\Referencia-vs-tipo_valor\obj\Debug\netcoreapp3.1\Referencia-vs-tipo_valor.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Referencia-vs-tipo_valor\Referencia-vs-tipo_valor\obj\Debug\netcoreapp3.1\Referencia-vs-tipo_valor.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Referencia-vs-tipo_valor\Referencia-vs-tipo_valor\obj\Debug\netcoreapp3.1\Referencia-vs-tipo_valor.genruntimeconfig.cache

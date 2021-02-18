@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\Csharp-POO\Foreach\Foreach\bin\Debug\netcoreapp3.1\Foreach.exe
+C:\DesenvolvimentoMayara\Csharp-POO\Foreach\Foreach\bin\Debug\netcoreapp3.1\Foreach.deps.json
+C:\DesenvolvimentoMayara\Csharp-POO\Foreach\Foreach\bin\Debug\netcoreapp3.1\Foreach.runtimeconfig.json
+C:\DesenvolvimentoMayara\Csharp-POO\Foreach\Foreach\bin\Debug\netcoreapp3.1\Foreach.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\Csharp-POO\Foreach\Foreach\bin\Debug\netcoreapp3.1\Foreach.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Foreach\Foreach\bin\Debug\netcoreapp3.1\Foreach.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Foreach\Foreach\obj\Debug\netcoreapp3.1\Foreach.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Foreach\Foreach\obj\Debug\netcoreapp3.1\Foreach.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Foreach\Foreach\obj\Debug\netcoreapp3.1\Foreach.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\Csharp-POO\Foreach\Foreach\obj\Debug\netcoreapp3.1\Foreach.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Foreach\Foreach\obj\Debug\netcoreapp3.1\Foreach.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Foreach\Foreach\obj\Debug\netcoreapp3.1\Foreach.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Foreach\Foreach\obj\Debug\netcoreapp3.1\Foreach.genruntimeconfig.cache
