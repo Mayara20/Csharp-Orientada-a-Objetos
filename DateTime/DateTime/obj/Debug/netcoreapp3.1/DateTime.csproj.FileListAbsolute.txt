@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\Csharp-POO\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateTime.exe
+C:\DesenvolvimentoMayara\Csharp-POO\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateTime.deps.json
+C:\DesenvolvimentoMayara\Csharp-POO\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateTime.runtimeconfig.json
+C:\DesenvolvimentoMayara\Csharp-POO\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateTime.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\Csharp-POO\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateTime.dll
+C:\DesenvolvimentoMayara\Csharp-POO\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateTime.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTime.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\Csharp-POO\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTime.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTime.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\Csharp-POO\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTime.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTime.dll
+C:\DesenvolvimentoMayara\Csharp-POO\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTime.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTime.genruntimeconfig.cache

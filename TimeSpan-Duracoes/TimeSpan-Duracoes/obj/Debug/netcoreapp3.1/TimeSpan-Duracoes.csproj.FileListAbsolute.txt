@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\Csharp-POO\TimeSpan-Duracoes\TimeSpan-Duracoes\bin\Debug\netcoreapp3.1\TimeSpan-Duracoes.exe
+C:\DesenvolvimentoMayara\Csharp-POO\TimeSpan-Duracoes\TimeSpan-Duracoes\bin\Debug\netcoreapp3.1\TimeSpan-Duracoes.deps.json
+C:\DesenvolvimentoMayara\Csharp-POO\TimeSpan-Duracoes\TimeSpan-Duracoes\bin\Debug\netcoreapp3.1\TimeSpan-Duracoes.runtimeconfig.json
+C:\DesenvolvimentoMayara\Csharp-POO\TimeSpan-Duracoes\TimeSpan-Duracoes\bin\Debug\netcoreapp3.1\TimeSpan-Duracoes.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\Csharp-POO\TimeSpan-Duracoes\TimeSpan-Duracoes\bin\Debug\netcoreapp3.1\TimeSpan-Duracoes.dll
+C:\DesenvolvimentoMayara\Csharp-POO\TimeSpan-Duracoes\TimeSpan-Duracoes\bin\Debug\netcoreapp3.1\TimeSpan-Duracoes.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\TimeSpan-Duracoes\TimeSpan-Duracoes\obj\Debug\netcoreapp3.1\TimeSpan-Duracoes.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\Csharp-POO\TimeSpan-Duracoes\TimeSpan-Duracoes\obj\Debug\netcoreapp3.1\TimeSpan-Duracoes.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\TimeSpan-Duracoes\TimeSpan-Duracoes\obj\Debug\netcoreapp3.1\TimeSpan-Duracoes.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\Csharp-POO\TimeSpan-Duracoes\TimeSpan-Duracoes\obj\Debug\netcoreapp3.1\TimeSpan-Duracoes.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\TimeSpan-Duracoes\TimeSpan-Duracoes\obj\Debug\netcoreapp3.1\TimeSpan-Duracoes.dll
+C:\DesenvolvimentoMayara\Csharp-POO\TimeSpan-Duracoes\TimeSpan-Duracoes\obj\Debug\netcoreapp3.1\TimeSpan-Duracoes.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\TimeSpan-Duracoes\TimeSpan-Duracoes\obj\Debug\netcoreapp3.1\TimeSpan-Duracoes.genruntimeconfig.cache

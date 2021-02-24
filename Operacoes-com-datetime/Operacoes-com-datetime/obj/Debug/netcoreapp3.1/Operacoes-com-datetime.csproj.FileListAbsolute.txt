@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\Csharp-POO\Operacoes-com-datetime\Operacoes-com-datetime\obj\Debug\netcoreapp3.1\Operacoes-com-datetime.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Operacoes-com-datetime\Operacoes-com-datetime\obj\Debug\netcoreapp3.1\Operacoes-com-datetime.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Operacoes-com-datetime\Operacoes-com-datetime\obj\Debug\netcoreapp3.1\Operacoes-com-datetime.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\Csharp-POO\Operacoes-com-datetime\Operacoes-com-datetime\obj\Debug\netcoreapp3.1\Operacoes-com-datetime.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Operacoes-com-datetime\Operacoes-com-datetime\bin\Debug\netcoreapp3.1\Operacoes-com-datetime.exe
+C:\DesenvolvimentoMayara\Csharp-POO\Operacoes-com-datetime\Operacoes-com-datetime\bin\Debug\netcoreapp3.1\Operacoes-com-datetime.deps.json
+C:\DesenvolvimentoMayara\Csharp-POO\Operacoes-com-datetime\Operacoes-com-datetime\bin\Debug\netcoreapp3.1\Operacoes-com-datetime.runtimeconfig.json
+C:\DesenvolvimentoMayara\Csharp-POO\Operacoes-com-datetime\Operacoes-com-datetime\bin\Debug\netcoreapp3.1\Operacoes-com-datetime.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\Csharp-POO\Operacoes-com-datetime\Operacoes-com-datetime\bin\Debug\netcoreapp3.1\Operacoes-com-datetime.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Operacoes-com-datetime\Operacoes-com-datetime\bin\Debug\netcoreapp3.1\Operacoes-com-datetime.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Operacoes-com-datetime\Operacoes-com-datetime\obj\Debug\netcoreapp3.1\Operacoes-com-datetime.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Operacoes-com-datetime\Operacoes-com-datetime\obj\Debug\netcoreapp3.1\Operacoes-com-datetime.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Operacoes-com-datetime\Operacoes-com-datetime\obj\Debug\netcoreapp3.1\Operacoes-com-datetime.genruntimeconfig.cache

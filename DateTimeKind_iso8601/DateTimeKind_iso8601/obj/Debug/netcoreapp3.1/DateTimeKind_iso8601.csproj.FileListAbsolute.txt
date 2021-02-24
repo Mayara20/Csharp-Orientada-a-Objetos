@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\Csharp-POO\DateTimeKind_iso8601\DateTimeKind_iso8601\bin\Debug\netcoreapp3.1\DateTimeKind_iso8601.exe
+C:\DesenvolvimentoMayara\Csharp-POO\DateTimeKind_iso8601\DateTimeKind_iso8601\bin\Debug\netcoreapp3.1\DateTimeKind_iso8601.deps.json
+C:\DesenvolvimentoMayara\Csharp-POO\DateTimeKind_iso8601\DateTimeKind_iso8601\bin\Debug\netcoreapp3.1\DateTimeKind_iso8601.runtimeconfig.json
+C:\DesenvolvimentoMayara\Csharp-POO\DateTimeKind_iso8601\DateTimeKind_iso8601\bin\Debug\netcoreapp3.1\DateTimeKind_iso8601.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\Csharp-POO\DateTimeKind_iso8601\DateTimeKind_iso8601\bin\Debug\netcoreapp3.1\DateTimeKind_iso8601.dll
+C:\DesenvolvimentoMayara\Csharp-POO\DateTimeKind_iso8601\DateTimeKind_iso8601\bin\Debug\netcoreapp3.1\DateTimeKind_iso8601.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\DateTimeKind_iso8601\DateTimeKind_iso8601\obj\Debug\netcoreapp3.1\DateTimeKind_iso8601.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\Csharp-POO\DateTimeKind_iso8601\DateTimeKind_iso8601\obj\Debug\netcoreapp3.1\DateTimeKind_iso8601.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\DateTimeKind_iso8601\DateTimeKind_iso8601\obj\Debug\netcoreapp3.1\DateTimeKind_iso8601.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\Csharp-POO\DateTimeKind_iso8601\DateTimeKind_iso8601\obj\Debug\netcoreapp3.1\DateTimeKind_iso8601.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\DateTimeKind_iso8601\DateTimeKind_iso8601\obj\Debug\netcoreapp3.1\DateTimeKind_iso8601.dll
+C:\DesenvolvimentoMayara\Csharp-POO\DateTimeKind_iso8601\DateTimeKind_iso8601\obj\Debug\netcoreapp3.1\DateTimeKind_iso8601.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\DateTimeKind_iso8601\DateTimeKind_iso8601\obj\Debug\netcoreapp3.1\DateTimeKind_iso8601.genruntimeconfig.cache

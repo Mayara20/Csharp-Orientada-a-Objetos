@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\Csharp-POO\Propriedades-com-TimeSpan\Propriedades-com-TimeSpan\bin\Debug\netcoreapp3.1\Propriedades-com-TimeSpan.exe
+C:\DesenvolvimentoMayara\Csharp-POO\Propriedades-com-TimeSpan\Propriedades-com-TimeSpan\bin\Debug\netcoreapp3.1\Propriedades-com-TimeSpan.deps.json
+C:\DesenvolvimentoMayara\Csharp-POO\Propriedades-com-TimeSpan\Propriedades-com-TimeSpan\bin\Debug\netcoreapp3.1\Propriedades-com-TimeSpan.runtimeconfig.json
+C:\DesenvolvimentoMayara\Csharp-POO\Propriedades-com-TimeSpan\Propriedades-com-TimeSpan\bin\Debug\netcoreapp3.1\Propriedades-com-TimeSpan.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\Csharp-POO\Propriedades-com-TimeSpan\Propriedades-com-TimeSpan\bin\Debug\netcoreapp3.1\Propriedades-com-TimeSpan.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Propriedades-com-TimeSpan\Propriedades-com-TimeSpan\bin\Debug\netcoreapp3.1\Propriedades-com-TimeSpan.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Propriedades-com-TimeSpan\Propriedades-com-TimeSpan\obj\Debug\netcoreapp3.1\Propriedades-com-TimeSpan.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Propriedades-com-TimeSpan\Propriedades-com-TimeSpan\obj\Debug\netcoreapp3.1\Propriedades-com-TimeSpan.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Propriedades-com-TimeSpan\Propriedades-com-TimeSpan\obj\Debug\netcoreapp3.1\Propriedades-com-TimeSpan.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\Csharp-POO\Propriedades-com-TimeSpan\Propriedades-com-TimeSpan\obj\Debug\netcoreapp3.1\Propriedades-com-TimeSpan.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Propriedades-com-TimeSpan\Propriedades-com-TimeSpan\obj\Debug\netcoreapp3.1\Propriedades-com-TimeSpan.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Propriedades-com-TimeSpan\Propriedades-com-TimeSpan\obj\Debug\netcoreapp3.1\Propriedades-com-TimeSpan.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Propriedades-com-TimeSpan\Propriedades-com-TimeSpan\obj\Debug\netcoreapp3.1\Propriedades-com-TimeSpan.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\Csharp-POO\Propriedades-e-operacoes\Propriedades-e-operacoes\bin\Debug\netcoreapp3.1\Propriedades-e-operacoes.exe
+C:\DesenvolvimentoMayara\Csharp-POO\Propriedades-e-operacoes\Propriedades-e-operacoes\bin\Debug\netcoreapp3.1\Propriedades-e-operacoes.deps.json
+C:\DesenvolvimentoMayara\Csharp-POO\Propriedades-e-operacoes\Propriedades-e-operacoes\bin\Debug\netcoreapp3.1\Propriedades-e-operacoes.runtimeconfig.json
+C:\DesenvolvimentoMayara\Csharp-POO\Propriedades-e-operacoes\Propriedades-e-operacoes\bin\Debug\netcoreapp3.1\Propriedades-e-operacoes.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\Csharp-POO\Propriedades-e-operacoes\Propriedades-e-operacoes\bin\Debug\netcoreapp3.1\Propriedades-e-operacoes.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Propriedades-e-operacoes\Propriedades-e-operacoes\bin\Debug\netcoreapp3.1\Propriedades-e-operacoes.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Propriedades-e-operacoes\Propriedades-e-operacoes\obj\Debug\netcoreapp3.1\Propriedades-e-operacoes.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Propriedades-e-operacoes\Propriedades-e-operacoes\obj\Debug\netcoreapp3.1\Propriedades-e-operacoes.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Propriedades-e-operacoes\Propriedades-e-operacoes\obj\Debug\netcoreapp3.1\Propriedades-e-operacoes.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\Csharp-POO\Propriedades-e-operacoes\Propriedades-e-operacoes\obj\Debug\netcoreapp3.1\Propriedades-e-operacoes.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Propriedades-e-operacoes\Propriedades-e-operacoes\obj\Debug\netcoreapp3.1\Propriedades-e-operacoes.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Propriedades-e-operacoes\Propriedades-e-operacoes\obj\Debug\netcoreapp3.1\Propriedades-e-operacoes.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Propriedades-e-operacoes\Propriedades-e-operacoes\obj\Debug\netcoreapp3.1\Propriedades-e-operacoes.genruntimeconfig.cache

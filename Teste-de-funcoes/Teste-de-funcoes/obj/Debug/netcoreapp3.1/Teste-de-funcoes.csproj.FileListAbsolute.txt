@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\Csharp-POO\Teste-de-funcoes\Teste-de-funcoes\bin\Debug\netcoreapp3.1\Teste-de-funcoes.exe
+C:\DesenvolvimentoMayara\Csharp-POO\Teste-de-funcoes\Teste-de-funcoes\bin\Debug\netcoreapp3.1\Teste-de-funcoes.deps.json
+C:\DesenvolvimentoMayara\Csharp-POO\Teste-de-funcoes\Teste-de-funcoes\bin\Debug\netcoreapp3.1\Teste-de-funcoes.runtimeconfig.json
+C:\DesenvolvimentoMayara\Csharp-POO\Teste-de-funcoes\Teste-de-funcoes\bin\Debug\netcoreapp3.1\Teste-de-funcoes.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\Csharp-POO\Teste-de-funcoes\Teste-de-funcoes\bin\Debug\netcoreapp3.1\Teste-de-funcoes.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Teste-de-funcoes\Teste-de-funcoes\bin\Debug\netcoreapp3.1\Teste-de-funcoes.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Teste-de-funcoes\Teste-de-funcoes\obj\Debug\netcoreapp3.1\Teste-de-funcoes.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Teste-de-funcoes\Teste-de-funcoes\obj\Debug\netcoreapp3.1\Teste-de-funcoes.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Teste-de-funcoes\Teste-de-funcoes\obj\Debug\netcoreapp3.1\Teste-de-funcoes.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\Csharp-POO\Teste-de-funcoes\Teste-de-funcoes\obj\Debug\netcoreapp3.1\Teste-de-funcoes.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Teste-de-funcoes\Teste-de-funcoes\obj\Debug\netcoreapp3.1\Teste-de-funcoes.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Teste-de-funcoes\Teste-de-funcoes\obj\Debug\netcoreapp3.1\Teste-de-funcoes.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Teste-de-funcoes\Teste-de-funcoes\obj\Debug\netcoreapp3.1\Teste-de-funcoes.genruntimeconfig.cache

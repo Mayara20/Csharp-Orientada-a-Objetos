@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\Csharp-POO\Expressao-condicional-ternaria\Expressao-condicional-ternaria\bin\Debug\netcoreapp3.1\Expressao-condicional-ternaria.exe
+C:\DesenvolvimentoMayara\Csharp-POO\Expressao-condicional-ternaria\Expressao-condicional-ternaria\bin\Debug\netcoreapp3.1\Expressao-condicional-ternaria.deps.json
+C:\DesenvolvimentoMayara\Csharp-POO\Expressao-condicional-ternaria\Expressao-condicional-ternaria\bin\Debug\netcoreapp3.1\Expressao-condicional-ternaria.runtimeconfig.json
+C:\DesenvolvimentoMayara\Csharp-POO\Expressao-condicional-ternaria\Expressao-condicional-ternaria\bin\Debug\netcoreapp3.1\Expressao-condicional-ternaria.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\Csharp-POO\Expressao-condicional-ternaria\Expressao-condicional-ternaria\bin\Debug\netcoreapp3.1\Expressao-condicional-ternaria.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Expressao-condicional-ternaria\Expressao-condicional-ternaria\bin\Debug\netcoreapp3.1\Expressao-condicional-ternaria.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Expressao-condicional-ternaria\Expressao-condicional-ternaria\obj\Debug\netcoreapp3.1\Expressao-condicional-ternaria.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Expressao-condicional-ternaria\Expressao-condicional-ternaria\obj\Debug\netcoreapp3.1\Expressao-condicional-ternaria.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Expressao-condicional-ternaria\Expressao-condicional-ternaria\obj\Debug\netcoreapp3.1\Expressao-condicional-ternaria.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\Csharp-POO\Expressao-condicional-ternaria\Expressao-condicional-ternaria\obj\Debug\netcoreapp3.1\Expressao-condicional-ternaria.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Expressao-condicional-ternaria\Expressao-condicional-ternaria\obj\Debug\netcoreapp3.1\Expressao-condicional-ternaria.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Expressao-condicional-ternaria\Expressao-condicional-ternaria\obj\Debug\netcoreapp3.1\Expressao-condicional-ternaria.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Expressao-condicional-ternaria\Expressao-condicional-ternaria\obj\Debug\netcoreapp3.1\Expressao-condicional-ternaria.genruntimeconfig.cache

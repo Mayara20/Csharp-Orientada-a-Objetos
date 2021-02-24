@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\Csharp-POO\testando-apenas\testando-apenas\bin\Debug\netcoreapp3.1\testando-apenas.exe
+C:\DesenvolvimentoMayara\Csharp-POO\testando-apenas\testando-apenas\bin\Debug\netcoreapp3.1\testando-apenas.deps.json
+C:\DesenvolvimentoMayara\Csharp-POO\testando-apenas\testando-apenas\bin\Debug\netcoreapp3.1\testando-apenas.runtimeconfig.json
+C:\DesenvolvimentoMayara\Csharp-POO\testando-apenas\testando-apenas\bin\Debug\netcoreapp3.1\testando-apenas.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\Csharp-POO\testando-apenas\testando-apenas\bin\Debug\netcoreapp3.1\testando-apenas.dll
+C:\DesenvolvimentoMayara\Csharp-POO\testando-apenas\testando-apenas\bin\Debug\netcoreapp3.1\testando-apenas.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\testando-apenas\testando-apenas\obj\Debug\netcoreapp3.1\testando-apenas.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\Csharp-POO\testando-apenas\testando-apenas\obj\Debug\netcoreapp3.1\testando-apenas.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\testando-apenas\testando-apenas\obj\Debug\netcoreapp3.1\testando-apenas.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\Csharp-POO\testando-apenas\testando-apenas\obj\Debug\netcoreapp3.1\testando-apenas.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\testando-apenas\testando-apenas\obj\Debug\netcoreapp3.1\testando-apenas.dll
+C:\DesenvolvimentoMayara\Csharp-POO\testando-apenas\testando-apenas\obj\Debug\netcoreapp3.1\testando-apenas.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\testando-apenas\testando-apenas\obj\Debug\netcoreapp3.1\testando-apenas.genruntimeconfig.cache
