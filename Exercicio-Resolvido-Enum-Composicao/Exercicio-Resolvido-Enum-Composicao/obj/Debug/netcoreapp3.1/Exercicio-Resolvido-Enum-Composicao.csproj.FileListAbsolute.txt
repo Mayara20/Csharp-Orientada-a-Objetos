@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Resolvido-Enum-Composicao\Exercicio-Resolvido-Enum-Composicao\bin\Debug\netcoreapp3.1\Exercicio-Resolvido-Enum-Composicao.exe
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Resolvido-Enum-Composicao\Exercicio-Resolvido-Enum-Composicao\bin\Debug\netcoreapp3.1\Exercicio-Resolvido-Enum-Composicao.deps.json
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Resolvido-Enum-Composicao\Exercicio-Resolvido-Enum-Composicao\bin\Debug\netcoreapp3.1\Exercicio-Resolvido-Enum-Composicao.runtimeconfig.json
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Resolvido-Enum-Composicao\Exercicio-Resolvido-Enum-Composicao\bin\Debug\netcoreapp3.1\Exercicio-Resolvido-Enum-Composicao.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Resolvido-Enum-Composicao\Exercicio-Resolvido-Enum-Composicao\bin\Debug\netcoreapp3.1\Exercicio-Resolvido-Enum-Composicao.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Resolvido-Enum-Composicao\Exercicio-Resolvido-Enum-Composicao\bin\Debug\netcoreapp3.1\Exercicio-Resolvido-Enum-Composicao.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Resolvido-Enum-Composicao\Exercicio-Resolvido-Enum-Composicao\obj\Debug\netcoreapp3.1\Exercicio-Resolvido-Enum-Composicao.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Resolvido-Enum-Composicao\Exercicio-Resolvido-Enum-Composicao\obj\Debug\netcoreapp3.1\Exercicio-Resolvido-Enum-Composicao.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Resolvido-Enum-Composicao\Exercicio-Resolvido-Enum-Composicao\obj\Debug\netcoreapp3.1\Exercicio-Resolvido-Enum-Composicao.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Resolvido-Enum-Composicao\Exercicio-Resolvido-Enum-Composicao\obj\Debug\netcoreapp3.1\Exercicio-Resolvido-Enum-Composicao.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Resolvido-Enum-Composicao\Exercicio-Resolvido-Enum-Composicao\obj\Debug\netcoreapp3.1\Exercicio-Resolvido-Enum-Composicao.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Resolvido-Enum-Composicao\Exercicio-Resolvido-Enum-Composicao\obj\Debug\netcoreapp3.1\Exercicio-Resolvido-Enum-Composicao.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Resolvido-Enum-Composicao\Exercicio-Resolvido-Enum-Composicao\obj\Debug\netcoreapp3.1\Exercicio-Resolvido-Enum-Composicao.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\Csharp-POO\Sobreposição__2\Sobreposição__2\bin\Debug\netcoreapp3.1\Sobreposição__2.exe
+C:\DesenvolvimentoMayara\Csharp-POO\Sobreposição__2\Sobreposição__2\bin\Debug\netcoreapp3.1\Sobreposição__2.deps.json
+C:\DesenvolvimentoMayara\Csharp-POO\Sobreposição__2\Sobreposição__2\bin\Debug\netcoreapp3.1\Sobreposição__2.runtimeconfig.json
+C:\DesenvolvimentoMayara\Csharp-POO\Sobreposição__2\Sobreposição__2\bin\Debug\netcoreapp3.1\Sobreposição__2.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\Csharp-POO\Sobreposição__2\Sobreposição__2\bin\Debug\netcoreapp3.1\Sobreposição__2.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Sobreposição__2\Sobreposição__2\bin\Debug\netcoreapp3.1\Sobreposição__2.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Sobreposição__2\Sobreposição__2\obj\Debug\netcoreapp3.1\Sobreposição__2.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Sobreposição__2\Sobreposição__2\obj\Debug\netcoreapp3.1\Sobreposição__2.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Sobreposição__2\Sobreposição__2\obj\Debug\netcoreapp3.1\Sobreposição__2.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\Csharp-POO\Sobreposição__2\Sobreposição__2\obj\Debug\netcoreapp3.1\Sobreposição__2.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Sobreposição__2\Sobreposição__2\obj\Debug\netcoreapp3.1\Sobreposição__2.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Sobreposição__2\Sobreposição__2\obj\Debug\netcoreapp3.1\Sobreposição__2.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Sobreposição__2\Sobreposição__2\obj\Debug\netcoreapp3.1\Sobreposição__2.genruntimeconfig.cache

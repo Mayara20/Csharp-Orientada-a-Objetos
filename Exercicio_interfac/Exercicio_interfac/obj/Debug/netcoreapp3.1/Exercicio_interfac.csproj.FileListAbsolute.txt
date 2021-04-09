@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio_interfac\Exercicio_interfac\bin\Debug\netcoreapp3.1\Exercicio_interfac.exe
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio_interfac\Exercicio_interfac\bin\Debug\netcoreapp3.1\Exercicio_interfac.deps.json
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio_interfac\Exercicio_interfac\bin\Debug\netcoreapp3.1\Exercicio_interfac.runtimeconfig.json
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio_interfac\Exercicio_interfac\bin\Debug\netcoreapp3.1\Exercicio_interfac.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio_interfac\Exercicio_interfac\bin\Debug\netcoreapp3.1\Exercicio_interfac.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio_interfac\Exercicio_interfac\bin\Debug\netcoreapp3.1\Exercicio_interfac.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio_interfac\Exercicio_interfac\obj\Debug\netcoreapp3.1\Exercicio_interfac.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio_interfac\Exercicio_interfac\obj\Debug\netcoreapp3.1\Exercicio_interfac.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio_interfac\Exercicio_interfac\obj\Debug\netcoreapp3.1\Exercicio_interfac.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio_interfac\Exercicio_interfac\obj\Debug\netcoreapp3.1\Exercicio_interfac.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio_interfac\Exercicio_interfac\obj\Debug\netcoreapp3.1\Exercicio_interfac.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio_interfac\Exercicio_interfac\obj\Debug\netcoreapp3.1\Exercicio_interfac.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio_interfac\Exercicio_interfac\obj\Debug\netcoreapp3.1\Exercicio_interfac.genruntimeconfig.cache

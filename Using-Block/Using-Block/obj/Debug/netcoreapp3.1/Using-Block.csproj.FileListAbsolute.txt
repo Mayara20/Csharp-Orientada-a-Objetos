@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\Using-Block\Using-Block\bin\Debug\netcoreapp3.1\Using-Block.exe
+C:\DesenvolvimentoMayara\Using-Block\Using-Block\bin\Debug\netcoreapp3.1\Using-Block.deps.json
+C:\DesenvolvimentoMayara\Using-Block\Using-Block\bin\Debug\netcoreapp3.1\Using-Block.runtimeconfig.json
+C:\DesenvolvimentoMayara\Using-Block\Using-Block\bin\Debug\netcoreapp3.1\Using-Block.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\Using-Block\Using-Block\bin\Debug\netcoreapp3.1\Using-Block.dll
+C:\DesenvolvimentoMayara\Using-Block\Using-Block\bin\Debug\netcoreapp3.1\Using-Block.pdb
+C:\DesenvolvimentoMayara\Using-Block\Using-Block\obj\Debug\netcoreapp3.1\Using-Block.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\Using-Block\Using-Block\obj\Debug\netcoreapp3.1\Using-Block.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\Using-Block\Using-Block\obj\Debug\netcoreapp3.1\Using-Block.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\Using-Block\Using-Block\obj\Debug\netcoreapp3.1\Using-Block.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\Using-Block\Using-Block\obj\Debug\netcoreapp3.1\Using-Block.dll
+C:\DesenvolvimentoMayara\Using-Block\Using-Block\obj\Debug\netcoreapp3.1\Using-Block.pdb
+C:\DesenvolvimentoMayara\Using-Block\Using-Block\obj\Debug\netcoreapp3.1\Using-Block.genruntimeconfig.cache

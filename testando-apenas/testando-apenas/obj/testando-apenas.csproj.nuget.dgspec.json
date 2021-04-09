@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DesenvolvimentoMayara\\Csharp-POO\\testando-apenas\\testando-apenas\\testando-apenas.csproj": {}
+    "C:\\DesenvolvimentoMayara\\Csharp-POO\\Csharp-Orientada-a-Objetos\\testando-apenas\\testando-apenas\\testando-apenas.csproj": {}
   },
   "projects": {
-    "C:\\DesenvolvimentoMayara\\Csharp-POO\\testando-apenas\\testando-apenas\\testando-apenas.csproj": {
+    "C:\\DesenvolvimentoMayara\\Csharp-POO\\Csharp-Orientada-a-Objetos\\testando-apenas\\testando-apenas\\testando-apenas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DesenvolvimentoMayara\\Csharp-POO\\testando-apenas\\testando-apenas\\testando-apenas.csproj",
+        "projectUniqueName": "C:\\DesenvolvimentoMayara\\Csharp-POO\\Csharp-Orientada-a-Objetos\\testando-apenas\\testando-apenas\\testando-apenas.csproj",
         "projectName": "testando-apenas",
-        "projectPath": "C:\\DesenvolvimentoMayara\\Csharp-POO\\testando-apenas\\testando-apenas\\testando-apenas.csproj",
+        "projectPath": "C:\\DesenvolvimentoMayara\\Csharp-POO\\Csharp-Orientada-a-Objetos\\testando-apenas\\testando-apenas\\testando-apenas.csproj",
         "packagesPath": "C:\\Users\\Larissa\\.nuget\\packages\\",
-        "outputPath": "C:\\DesenvolvimentoMayara\\Csharp-POO\\testando-apenas\\testando-apenas\\obj\\",
+        "outputPath": "C:\\DesenvolvimentoMayara\\Csharp-POO\\Csharp-Orientada-a-Objetos\\testando-apenas\\testando-apenas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Larissa\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\Csharp-POO\Exceções-Personalizadas\Exceções-Personalizadas\bin\Debug\netcoreapp3.1\Exceções-Personalizadas.exe
+C:\DesenvolvimentoMayara\Csharp-POO\Exceções-Personalizadas\Exceções-Personalizadas\bin\Debug\netcoreapp3.1\Exceções-Personalizadas.deps.json
+C:\DesenvolvimentoMayara\Csharp-POO\Exceções-Personalizadas\Exceções-Personalizadas\bin\Debug\netcoreapp3.1\Exceções-Personalizadas.runtimeconfig.json
+C:\DesenvolvimentoMayara\Csharp-POO\Exceções-Personalizadas\Exceções-Personalizadas\bin\Debug\netcoreapp3.1\Exceções-Personalizadas.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\Csharp-POO\Exceções-Personalizadas\Exceções-Personalizadas\bin\Debug\netcoreapp3.1\Exceções-Personalizadas.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Exceções-Personalizadas\Exceções-Personalizadas\bin\Debug\netcoreapp3.1\Exceções-Personalizadas.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Exceções-Personalizadas\Exceções-Personalizadas\obj\Debug\netcoreapp3.1\Exceções-Personalizadas.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Exceções-Personalizadas\Exceções-Personalizadas\obj\Debug\netcoreapp3.1\Exceções-Personalizadas.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Exceções-Personalizadas\Exceções-Personalizadas\obj\Debug\netcoreapp3.1\Exceções-Personalizadas.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\Csharp-POO\Exceções-Personalizadas\Exceções-Personalizadas\obj\Debug\netcoreapp3.1\Exceções-Personalizadas.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Exceções-Personalizadas\Exceções-Personalizadas\obj\Debug\netcoreapp3.1\Exceções-Personalizadas.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Exceções-Personalizadas\Exceções-Personalizadas\obj\Debug\netcoreapp3.1\Exceções-Personalizadas.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Exceções-Personalizadas\Exceções-Personalizadas\obj\Debug\netcoreapp3.1\Exceções-Personalizadas.genruntimeconfig.cache

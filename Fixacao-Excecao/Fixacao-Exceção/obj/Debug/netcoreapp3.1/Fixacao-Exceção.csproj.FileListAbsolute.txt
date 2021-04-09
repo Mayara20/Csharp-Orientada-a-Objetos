@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\Csharp-POO\Fixacao-Exceção\Fixacao-Exceção\bin\Debug\netcoreapp3.1\Fixacao-Exceção.exe
+C:\DesenvolvimentoMayara\Csharp-POO\Fixacao-Exceção\Fixacao-Exceção\bin\Debug\netcoreapp3.1\Fixacao-Exceção.deps.json
+C:\DesenvolvimentoMayara\Csharp-POO\Fixacao-Exceção\Fixacao-Exceção\bin\Debug\netcoreapp3.1\Fixacao-Exceção.runtimeconfig.json
+C:\DesenvolvimentoMayara\Csharp-POO\Fixacao-Exceção\Fixacao-Exceção\bin\Debug\netcoreapp3.1\Fixacao-Exceção.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\Csharp-POO\Fixacao-Exceção\Fixacao-Exceção\bin\Debug\netcoreapp3.1\Fixacao-Exceção.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Fixacao-Exceção\Fixacao-Exceção\bin\Debug\netcoreapp3.1\Fixacao-Exceção.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Fixacao-Exceção\Fixacao-Exceção\obj\Debug\netcoreapp3.1\Fixacao-Exceção.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Fixacao-Exceção\Fixacao-Exceção\obj\Debug\netcoreapp3.1\Fixacao-Exceção.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Fixacao-Exceção\Fixacao-Exceção\obj\Debug\netcoreapp3.1\Fixacao-Exceção.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\Csharp-POO\Fixacao-Exceção\Fixacao-Exceção\obj\Debug\netcoreapp3.1\Fixacao-Exceção.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Fixacao-Exceção\Fixacao-Exceção\obj\Debug\netcoreapp3.1\Fixacao-Exceção.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Fixacao-Exceção\Fixacao-Exceção\obj\Debug\netcoreapp3.1\Fixacao-Exceção.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Fixacao-Exceção\Fixacao-Exceção\obj\Debug\netcoreapp3.1\Fixacao-Exceção.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Fixacao-Abstract\Exercicio-Fixacao-Abstract\bin\Debug\netcoreapp3.1\Exercicio-Fixacao-Abstract.exe
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Fixacao-Abstract\Exercicio-Fixacao-Abstract\bin\Debug\netcoreapp3.1\Exercicio-Fixacao-Abstract.deps.json
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Fixacao-Abstract\Exercicio-Fixacao-Abstract\bin\Debug\netcoreapp3.1\Exercicio-Fixacao-Abstract.runtimeconfig.json
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Fixacao-Abstract\Exercicio-Fixacao-Abstract\bin\Debug\netcoreapp3.1\Exercicio-Fixacao-Abstract.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Fixacao-Abstract\Exercicio-Fixacao-Abstract\bin\Debug\netcoreapp3.1\Exercicio-Fixacao-Abstract.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Fixacao-Abstract\Exercicio-Fixacao-Abstract\bin\Debug\netcoreapp3.1\Exercicio-Fixacao-Abstract.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Fixacao-Abstract\Exercicio-Fixacao-Abstract\obj\Debug\netcoreapp3.1\Exercicio-Fixacao-Abstract.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Fixacao-Abstract\Exercicio-Fixacao-Abstract\obj\Debug\netcoreapp3.1\Exercicio-Fixacao-Abstract.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Fixacao-Abstract\Exercicio-Fixacao-Abstract\obj\Debug\netcoreapp3.1\Exercicio-Fixacao-Abstract.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Fixacao-Abstract\Exercicio-Fixacao-Abstract\obj\Debug\netcoreapp3.1\Exercicio-Fixacao-Abstract.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Fixacao-Abstract\Exercicio-Fixacao-Abstract\obj\Debug\netcoreapp3.1\Exercicio-Fixacao-Abstract.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Fixacao-Abstract\Exercicio-Fixacao-Abstract\obj\Debug\netcoreapp3.1\Exercicio-Fixacao-Abstract.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Fixacao-Abstract\Exercicio-Fixacao-Abstract\obj\Debug\netcoreapp3.1\Exercicio-Fixacao-Abstract.genruntimeconfig.cache

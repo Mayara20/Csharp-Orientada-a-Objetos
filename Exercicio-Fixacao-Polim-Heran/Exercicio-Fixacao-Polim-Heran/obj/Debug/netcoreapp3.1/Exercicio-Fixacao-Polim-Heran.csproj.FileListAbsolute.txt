@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Fixacao-Polim-Heran\Exercicio-Fixacao-Polim-Heran\bin\Debug\netcoreapp3.1\Exercicio-Fixacao-Polim-Heran.exe
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Fixacao-Polim-Heran\Exercicio-Fixacao-Polim-Heran\bin\Debug\netcoreapp3.1\Exercicio-Fixacao-Polim-Heran.deps.json
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Fixacao-Polim-Heran\Exercicio-Fixacao-Polim-Heran\bin\Debug\netcoreapp3.1\Exercicio-Fixacao-Polim-Heran.runtimeconfig.json
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Fixacao-Polim-Heran\Exercicio-Fixacao-Polim-Heran\bin\Debug\netcoreapp3.1\Exercicio-Fixacao-Polim-Heran.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Fixacao-Polim-Heran\Exercicio-Fixacao-Polim-Heran\bin\Debug\netcoreapp3.1\Exercicio-Fixacao-Polim-Heran.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Fixacao-Polim-Heran\Exercicio-Fixacao-Polim-Heran\bin\Debug\netcoreapp3.1\Exercicio-Fixacao-Polim-Heran.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Fixacao-Polim-Heran\Exercicio-Fixacao-Polim-Heran\obj\Debug\netcoreapp3.1\Exercicio-Fixacao-Polim-Heran.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Fixacao-Polim-Heran\Exercicio-Fixacao-Polim-Heran\obj\Debug\netcoreapp3.1\Exercicio-Fixacao-Polim-Heran.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Fixacao-Polim-Heran\Exercicio-Fixacao-Polim-Heran\obj\Debug\netcoreapp3.1\Exercicio-Fixacao-Polim-Heran.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Fixacao-Polim-Heran\Exercicio-Fixacao-Polim-Heran\obj\Debug\netcoreapp3.1\Exercicio-Fixacao-Polim-Heran.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Fixacao-Polim-Heran\Exercicio-Fixacao-Polim-Heran\obj\Debug\netcoreapp3.1\Exercicio-Fixacao-Polim-Heran.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Fixacao-Polim-Heran\Exercicio-Fixacao-Polim-Heran\obj\Debug\netcoreapp3.1\Exercicio-Fixacao-Polim-Heran.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Fixacao-Polim-Heran\Exercicio-Fixacao-Polim-Heran\obj\Debug\netcoreapp3.1\Exercicio-Fixacao-Polim-Heran.genruntimeconfig.cache

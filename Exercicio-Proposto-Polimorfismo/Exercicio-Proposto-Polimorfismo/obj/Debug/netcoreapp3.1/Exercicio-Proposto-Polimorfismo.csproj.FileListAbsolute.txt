@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Proposto-Polimorfismo\Exercicio-Proposto-Polimorfismo\bin\Debug\netcoreapp3.1\Exercicio-Proposto-Polimorfismo.exe
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Proposto-Polimorfismo\Exercicio-Proposto-Polimorfismo\bin\Debug\netcoreapp3.1\Exercicio-Proposto-Polimorfismo.deps.json
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Proposto-Polimorfismo\Exercicio-Proposto-Polimorfismo\bin\Debug\netcoreapp3.1\Exercicio-Proposto-Polimorfismo.runtimeconfig.json
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Proposto-Polimorfismo\Exercicio-Proposto-Polimorfismo\bin\Debug\netcoreapp3.1\Exercicio-Proposto-Polimorfismo.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Proposto-Polimorfismo\Exercicio-Proposto-Polimorfismo\bin\Debug\netcoreapp3.1\Exercicio-Proposto-Polimorfismo.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Proposto-Polimorfismo\Exercicio-Proposto-Polimorfismo\bin\Debug\netcoreapp3.1\Exercicio-Proposto-Polimorfismo.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Proposto-Polimorfismo\Exercicio-Proposto-Polimorfismo\obj\Debug\netcoreapp3.1\Exercicio-Proposto-Polimorfismo.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Proposto-Polimorfismo\Exercicio-Proposto-Polimorfismo\obj\Debug\netcoreapp3.1\Exercicio-Proposto-Polimorfismo.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Proposto-Polimorfismo\Exercicio-Proposto-Polimorfismo\obj\Debug\netcoreapp3.1\Exercicio-Proposto-Polimorfismo.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Proposto-Polimorfismo\Exercicio-Proposto-Polimorfismo\obj\Debug\netcoreapp3.1\Exercicio-Proposto-Polimorfismo.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Proposto-Polimorfismo\Exercicio-Proposto-Polimorfismo\obj\Debug\netcoreapp3.1\Exercicio-Proposto-Polimorfismo.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Proposto-Polimorfismo\Exercicio-Proposto-Polimorfismo\obj\Debug\netcoreapp3.1\Exercicio-Proposto-Polimorfismo.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Proposto-Polimorfismo\Exercicio-Proposto-Polimorfismo\obj\Debug\netcoreapp3.1\Exercicio-Proposto-Polimorfismo.genruntimeconfig.cache

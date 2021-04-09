@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\Streams\Streams\bin\Debug\netcoreapp3.1\Streams.exe
+C:\DesenvolvimentoMayara\Streams\Streams\bin\Debug\netcoreapp3.1\Streams.deps.json
+C:\DesenvolvimentoMayara\Streams\Streams\bin\Debug\netcoreapp3.1\Streams.runtimeconfig.json
+C:\DesenvolvimentoMayara\Streams\Streams\bin\Debug\netcoreapp3.1\Streams.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\Streams\Streams\bin\Debug\netcoreapp3.1\Streams.dll
+C:\DesenvolvimentoMayara\Streams\Streams\bin\Debug\netcoreapp3.1\Streams.pdb
+C:\DesenvolvimentoMayara\Streams\Streams\obj\Debug\netcoreapp3.1\Streams.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\Streams\Streams\obj\Debug\netcoreapp3.1\Streams.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\Streams\Streams\obj\Debug\netcoreapp3.1\Streams.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\Streams\Streams\obj\Debug\netcoreapp3.1\Streams.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\Streams\Streams\obj\Debug\netcoreapp3.1\Streams.dll
+C:\DesenvolvimentoMayara\Streams\Streams\obj\Debug\netcoreapp3.1\Streams.pdb
+C:\DesenvolvimentoMayara\Streams\Streams\obj\Debug\netcoreapp3.1\Streams.genruntimeconfig.cache

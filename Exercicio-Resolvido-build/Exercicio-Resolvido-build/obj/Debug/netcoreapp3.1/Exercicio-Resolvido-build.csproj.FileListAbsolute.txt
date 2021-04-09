@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Resolvido-build\Exercicio-Resolvido-build\bin\Debug\netcoreapp3.1\Exercicio-Resolvido-build.exe
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Resolvido-build\Exercicio-Resolvido-build\bin\Debug\netcoreapp3.1\Exercicio-Resolvido-build.deps.json
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Resolvido-build\Exercicio-Resolvido-build\bin\Debug\netcoreapp3.1\Exercicio-Resolvido-build.runtimeconfig.json
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Resolvido-build\Exercicio-Resolvido-build\bin\Debug\netcoreapp3.1\Exercicio-Resolvido-build.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Resolvido-build\Exercicio-Resolvido-build\bin\Debug\netcoreapp3.1\Exercicio-Resolvido-build.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Resolvido-build\Exercicio-Resolvido-build\bin\Debug\netcoreapp3.1\Exercicio-Resolvido-build.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Resolvido-build\Exercicio-Resolvido-build\obj\Debug\netcoreapp3.1\Exercicio-Resolvido-build.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Resolvido-build\Exercicio-Resolvido-build\obj\Debug\netcoreapp3.1\Exercicio-Resolvido-build.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Resolvido-build\Exercicio-Resolvido-build\obj\Debug\netcoreapp3.1\Exercicio-Resolvido-build.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Resolvido-build\Exercicio-Resolvido-build\obj\Debug\netcoreapp3.1\Exercicio-Resolvido-build.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Resolvido-build\Exercicio-Resolvido-build\obj\Debug\netcoreapp3.1\Exercicio-Resolvido-build.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Resolvido-build\Exercicio-Resolvido-build\obj\Debug\netcoreapp3.1\Exercicio-Resolvido-build.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Resolvido-build\Exercicio-Resolvido-build\obj\Debug\netcoreapp3.1\Exercicio-Resolvido-build.genruntimeconfig.cache

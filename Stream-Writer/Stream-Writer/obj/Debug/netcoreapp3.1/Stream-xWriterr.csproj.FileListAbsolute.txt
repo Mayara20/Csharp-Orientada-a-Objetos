@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\Stream-Writer\Stream-Writer\bin\Debug\netcoreapp3.1\Stream-xWriterr.exe
+C:\DesenvolvimentoMayara\Stream-Writer\Stream-Writer\bin\Debug\netcoreapp3.1\Stream-xWriterr.deps.json
+C:\DesenvolvimentoMayara\Stream-Writer\Stream-Writer\bin\Debug\netcoreapp3.1\Stream-xWriterr.runtimeconfig.json
+C:\DesenvolvimentoMayara\Stream-Writer\Stream-Writer\bin\Debug\netcoreapp3.1\Stream-xWriterr.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\Stream-Writer\Stream-Writer\bin\Debug\netcoreapp3.1\Stream-xWriterr.dll
+C:\DesenvolvimentoMayara\Stream-Writer\Stream-Writer\bin\Debug\netcoreapp3.1\Stream-xWriterr.pdb
+C:\DesenvolvimentoMayara\Stream-Writer\Stream-Writer\obj\Debug\netcoreapp3.1\Stream-xWriterr.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\Stream-Writer\Stream-Writer\obj\Debug\netcoreapp3.1\Stream-xWriterr.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\Stream-Writer\Stream-Writer\obj\Debug\netcoreapp3.1\Stream-xWriterr.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\Stream-Writer\Stream-Writer\obj\Debug\netcoreapp3.1\Stream-xWriterr.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\Stream-Writer\Stream-Writer\obj\Debug\netcoreapp3.1\Stream-xWriterr.dll
+C:\DesenvolvimentoMayara\Stream-Writer\Stream-Writer\obj\Debug\netcoreapp3.1\Stream-xWriterr.pdb
+C:\DesenvolvimentoMayara\Stream-Writer\Stream-Writer\obj\Debug\netcoreapp3.1\Stream-xWriterr.genruntimeconfig.cache

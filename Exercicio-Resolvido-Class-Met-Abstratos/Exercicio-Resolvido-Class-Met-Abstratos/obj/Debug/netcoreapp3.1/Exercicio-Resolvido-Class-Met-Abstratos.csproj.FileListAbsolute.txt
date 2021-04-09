@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Resolvido-Class-Met-Abstratos\Exercicio-Resolvido-Class-Met-Abstratos\bin\Debug\netcoreapp3.1\Exercicio-Resolvido-Class-Met-Abstratos.exe
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Resolvido-Class-Met-Abstratos\Exercicio-Resolvido-Class-Met-Abstratos\bin\Debug\netcoreapp3.1\Exercicio-Resolvido-Class-Met-Abstratos.deps.json
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Resolvido-Class-Met-Abstratos\Exercicio-Resolvido-Class-Met-Abstratos\bin\Debug\netcoreapp3.1\Exercicio-Resolvido-Class-Met-Abstratos.runtimeconfig.json
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Resolvido-Class-Met-Abstratos\Exercicio-Resolvido-Class-Met-Abstratos\bin\Debug\netcoreapp3.1\Exercicio-Resolvido-Class-Met-Abstratos.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Resolvido-Class-Met-Abstratos\Exercicio-Resolvido-Class-Met-Abstratos\bin\Debug\netcoreapp3.1\Exercicio-Resolvido-Class-Met-Abstratos.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Resolvido-Class-Met-Abstratos\Exercicio-Resolvido-Class-Met-Abstratos\bin\Debug\netcoreapp3.1\Exercicio-Resolvido-Class-Met-Abstratos.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Resolvido-Class-Met-Abstratos\Exercicio-Resolvido-Class-Met-Abstratos\obj\Debug\netcoreapp3.1\Exercicio-Resolvido-Class-Met-Abstratos.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Resolvido-Class-Met-Abstratos\Exercicio-Resolvido-Class-Met-Abstratos\obj\Debug\netcoreapp3.1\Exercicio-Resolvido-Class-Met-Abstratos.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Resolvido-Class-Met-Abstratos\Exercicio-Resolvido-Class-Met-Abstratos\obj\Debug\netcoreapp3.1\Exercicio-Resolvido-Class-Met-Abstratos.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Resolvido-Class-Met-Abstratos\Exercicio-Resolvido-Class-Met-Abstratos\obj\Debug\netcoreapp3.1\Exercicio-Resolvido-Class-Met-Abstratos.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Resolvido-Class-Met-Abstratos\Exercicio-Resolvido-Class-Met-Abstratos\obj\Debug\netcoreapp3.1\Exercicio-Resolvido-Class-Met-Abstratos.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Resolvido-Class-Met-Abstratos\Exercicio-Resolvido-Class-Met-Abstratos\obj\Debug\netcoreapp3.1\Exercicio-Resolvido-Class-Met-Abstratos.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Resolvido-Class-Met-Abstratos\Exercicio-Resolvido-Class-Met-Abstratos\obj\Debug\netcoreapp3.1\Exercicio-Resolvido-Class-Met-Abstratos.genruntimeconfig.cache
