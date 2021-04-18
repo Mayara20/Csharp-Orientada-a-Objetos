@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\Csharp-POO\CorrigindoDiamante\CorrigindoDiamante\bin\Debug\netcoreapp3.1\CorrigindoDiamante.exe
+C:\DesenvolvimentoMayara\Csharp-POO\CorrigindoDiamante\CorrigindoDiamante\bin\Debug\netcoreapp3.1\CorrigindoDiamante.deps.json
+C:\DesenvolvimentoMayara\Csharp-POO\CorrigindoDiamante\CorrigindoDiamante\bin\Debug\netcoreapp3.1\CorrigindoDiamante.runtimeconfig.json
+C:\DesenvolvimentoMayara\Csharp-POO\CorrigindoDiamante\CorrigindoDiamante\bin\Debug\netcoreapp3.1\CorrigindoDiamante.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\Csharp-POO\CorrigindoDiamante\CorrigindoDiamante\bin\Debug\netcoreapp3.1\CorrigindoDiamante.dll
+C:\DesenvolvimentoMayara\Csharp-POO\CorrigindoDiamante\CorrigindoDiamante\bin\Debug\netcoreapp3.1\CorrigindoDiamante.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\CorrigindoDiamante\CorrigindoDiamante\obj\Debug\netcoreapp3.1\CorrigindoDiamante.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\Csharp-POO\CorrigindoDiamante\CorrigindoDiamante\obj\Debug\netcoreapp3.1\CorrigindoDiamante.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\CorrigindoDiamante\CorrigindoDiamante\obj\Debug\netcoreapp3.1\CorrigindoDiamante.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\Csharp-POO\CorrigindoDiamante\CorrigindoDiamante\obj\Debug\netcoreapp3.1\CorrigindoDiamante.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\CorrigindoDiamante\CorrigindoDiamante\obj\Debug\netcoreapp3.1\CorrigindoDiamante.dll
+C:\DesenvolvimentoMayara\Csharp-POO\CorrigindoDiamante\CorrigindoDiamante\obj\Debug\netcoreapp3.1\CorrigindoDiamante.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\CorrigindoDiamante\CorrigindoDiamante\obj\Debug\netcoreapp3.1\CorrigindoDiamante.genruntimeconfig.cache

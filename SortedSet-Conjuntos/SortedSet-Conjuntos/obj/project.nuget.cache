@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tt5voqv+TnarqmFZjmn0aSpaaHLFpqliF7aOdzDs6Jp0rvwMnhDKsTYgaL09rPbWrwVxGbfcTgL2LUIgvcKukg==",
+  "success": true,
+  "projectFilePath": "C:\\DesenvolvimentoMayara\\Csharp-POO\\SortedSet-Conjuntos\\SortedSet-Conjuntos\\SortedSet-Conjuntos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Larissa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

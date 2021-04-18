@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\Csharp-POO\Comparando_Igualdades-Colecoes\Comparando_Igualdades-Colecoes\bin\Debug\netcoreapp3.1\Comparando_Igualdades-Colecoes.exe
+C:\DesenvolvimentoMayara\Csharp-POO\Comparando_Igualdades-Colecoes\Comparando_Igualdades-Colecoes\bin\Debug\netcoreapp3.1\Comparando_Igualdades-Colecoes.deps.json
+C:\DesenvolvimentoMayara\Csharp-POO\Comparando_Igualdades-Colecoes\Comparando_Igualdades-Colecoes\bin\Debug\netcoreapp3.1\Comparando_Igualdades-Colecoes.runtimeconfig.json
+C:\DesenvolvimentoMayara\Csharp-POO\Comparando_Igualdades-Colecoes\Comparando_Igualdades-Colecoes\bin\Debug\netcoreapp3.1\Comparando_Igualdades-Colecoes.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\Csharp-POO\Comparando_Igualdades-Colecoes\Comparando_Igualdades-Colecoes\bin\Debug\netcoreapp3.1\Comparando_Igualdades-Colecoes.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Comparando_Igualdades-Colecoes\Comparando_Igualdades-Colecoes\bin\Debug\netcoreapp3.1\Comparando_Igualdades-Colecoes.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Comparando_Igualdades-Colecoes\Comparando_Igualdades-Colecoes\obj\Debug\netcoreapp3.1\Comparando_Igualdades-Colecoes.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Comparando_Igualdades-Colecoes\Comparando_Igualdades-Colecoes\obj\Debug\netcoreapp3.1\Comparando_Igualdades-Colecoes.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Comparando_Igualdades-Colecoes\Comparando_Igualdades-Colecoes\obj\Debug\netcoreapp3.1\Comparando_Igualdades-Colecoes.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\Csharp-POO\Comparando_Igualdades-Colecoes\Comparando_Igualdades-Colecoes\obj\Debug\netcoreapp3.1\Comparando_Igualdades-Colecoes.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Comparando_Igualdades-Colecoes\Comparando_Igualdades-Colecoes\obj\Debug\netcoreapp3.1\Comparando_Igualdades-Colecoes.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Comparando_Igualdades-Colecoes\Comparando_Igualdades-Colecoes\obj\Debug\netcoreapp3.1\Comparando_Igualdades-Colecoes.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Comparando_Igualdades-Colecoes\Comparando_Igualdades-Colecoes\obj\Debug\netcoreapp3.1\Comparando_Igualdades-Colecoes.genruntimeconfig.cache

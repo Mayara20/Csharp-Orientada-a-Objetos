@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\Csharp-POO\Comparabli\Comparabli\bin\Debug\netcoreapp3.1\Comparabli.exe
+C:\DesenvolvimentoMayara\Csharp-POO\Comparabli\Comparabli\bin\Debug\netcoreapp3.1\Comparabli.deps.json
+C:\DesenvolvimentoMayara\Csharp-POO\Comparabli\Comparabli\bin\Debug\netcoreapp3.1\Comparabli.runtimeconfig.json
+C:\DesenvolvimentoMayara\Csharp-POO\Comparabli\Comparabli\bin\Debug\netcoreapp3.1\Comparabli.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\Csharp-POO\Comparabli\Comparabli\bin\Debug\netcoreapp3.1\Comparabli.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Comparabli\Comparabli\bin\Debug\netcoreapp3.1\Comparabli.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Comparabli\Comparabli\obj\Debug\netcoreapp3.1\Comparabli.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Comparabli\Comparabli\obj\Debug\netcoreapp3.1\Comparabli.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Comparabli\Comparabli\obj\Debug\netcoreapp3.1\Comparabli.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\Csharp-POO\Comparabli\Comparabli\obj\Debug\netcoreapp3.1\Comparabli.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Comparabli\Comparabli\obj\Debug\netcoreapp3.1\Comparabli.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Comparabli\Comparabli\obj\Debug\netcoreapp3.1\Comparabli.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Comparabli\Comparabli\obj\Debug\netcoreapp3.1\Comparabli.genruntimeconfig.cache

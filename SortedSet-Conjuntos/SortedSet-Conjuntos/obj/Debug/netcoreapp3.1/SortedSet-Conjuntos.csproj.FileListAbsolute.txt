@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\Csharp-POO\SortedSet-Conjuntos\SortedSet-Conjuntos\bin\Debug\netcoreapp3.1\SortedSet-Conjuntos.exe
+C:\DesenvolvimentoMayara\Csharp-POO\SortedSet-Conjuntos\SortedSet-Conjuntos\bin\Debug\netcoreapp3.1\SortedSet-Conjuntos.deps.json
+C:\DesenvolvimentoMayara\Csharp-POO\SortedSet-Conjuntos\SortedSet-Conjuntos\bin\Debug\netcoreapp3.1\SortedSet-Conjuntos.runtimeconfig.json
+C:\DesenvolvimentoMayara\Csharp-POO\SortedSet-Conjuntos\SortedSet-Conjuntos\bin\Debug\netcoreapp3.1\SortedSet-Conjuntos.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\Csharp-POO\SortedSet-Conjuntos\SortedSet-Conjuntos\bin\Debug\netcoreapp3.1\SortedSet-Conjuntos.dll
+C:\DesenvolvimentoMayara\Csharp-POO\SortedSet-Conjuntos\SortedSet-Conjuntos\bin\Debug\netcoreapp3.1\SortedSet-Conjuntos.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\SortedSet-Conjuntos\SortedSet-Conjuntos\obj\Debug\netcoreapp3.1\SortedSet-Conjuntos.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\Csharp-POO\SortedSet-Conjuntos\SortedSet-Conjuntos\obj\Debug\netcoreapp3.1\SortedSet-Conjuntos.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\SortedSet-Conjuntos\SortedSet-Conjuntos\obj\Debug\netcoreapp3.1\SortedSet-Conjuntos.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\Csharp-POO\SortedSet-Conjuntos\SortedSet-Conjuntos\obj\Debug\netcoreapp3.1\SortedSet-Conjuntos.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\SortedSet-Conjuntos\SortedSet-Conjuntos\obj\Debug\netcoreapp3.1\SortedSet-Conjuntos.dll
+C:\DesenvolvimentoMayara\Csharp-POO\SortedSet-Conjuntos\SortedSet-Conjuntos\obj\Debug\netcoreapp3.1\SortedSet-Conjuntos.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\SortedSet-Conjuntos\SortedSet-Conjuntos\obj\Debug\netcoreapp3.1\SortedSet-Conjuntos.genruntimeconfig.cache

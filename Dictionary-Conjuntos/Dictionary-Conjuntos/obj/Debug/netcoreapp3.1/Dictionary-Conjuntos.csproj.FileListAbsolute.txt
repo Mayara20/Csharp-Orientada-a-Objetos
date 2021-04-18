@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\Csharp-POO\Dictionary-Conjuntos\Dictionary-Conjuntos\bin\Debug\netcoreapp3.1\Dictionary-Conjuntos.exe
+C:\DesenvolvimentoMayara\Csharp-POO\Dictionary-Conjuntos\Dictionary-Conjuntos\bin\Debug\netcoreapp3.1\Dictionary-Conjuntos.deps.json
+C:\DesenvolvimentoMayara\Csharp-POO\Dictionary-Conjuntos\Dictionary-Conjuntos\bin\Debug\netcoreapp3.1\Dictionary-Conjuntos.runtimeconfig.json
+C:\DesenvolvimentoMayara\Csharp-POO\Dictionary-Conjuntos\Dictionary-Conjuntos\bin\Debug\netcoreapp3.1\Dictionary-Conjuntos.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\Csharp-POO\Dictionary-Conjuntos\Dictionary-Conjuntos\bin\Debug\netcoreapp3.1\Dictionary-Conjuntos.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Dictionary-Conjuntos\Dictionary-Conjuntos\bin\Debug\netcoreapp3.1\Dictionary-Conjuntos.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Dictionary-Conjuntos\Dictionary-Conjuntos\obj\Debug\netcoreapp3.1\Dictionary-Conjuntos.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Dictionary-Conjuntos\Dictionary-Conjuntos\obj\Debug\netcoreapp3.1\Dictionary-Conjuntos.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Dictionary-Conjuntos\Dictionary-Conjuntos\obj\Debug\netcoreapp3.1\Dictionary-Conjuntos.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\Csharp-POO\Dictionary-Conjuntos\Dictionary-Conjuntos\obj\Debug\netcoreapp3.1\Dictionary-Conjuntos.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Dictionary-Conjuntos\Dictionary-Conjuntos\obj\Debug\netcoreapp3.1\Dictionary-Conjuntos.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Dictionary-Conjuntos\Dictionary-Conjuntos\obj\Debug\netcoreapp3.1\Dictionary-Conjuntos.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Dictionary-Conjuntos\Dictionary-Conjuntos\obj\Debug\netcoreapp3.1\Dictionary-Conjuntos.genruntimeconfig.cache

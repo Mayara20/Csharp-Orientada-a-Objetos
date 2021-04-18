@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Proposto-Conjuntos\Exercicio-Proposto-Conjuntos\bin\Debug\netcoreapp3.1\Exercicio-Proposto-Conjuntos.exe
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Proposto-Conjuntos\Exercicio-Proposto-Conjuntos\bin\Debug\netcoreapp3.1\Exercicio-Proposto-Conjuntos.deps.json
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Proposto-Conjuntos\Exercicio-Proposto-Conjuntos\bin\Debug\netcoreapp3.1\Exercicio-Proposto-Conjuntos.runtimeconfig.json
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Proposto-Conjuntos\Exercicio-Proposto-Conjuntos\bin\Debug\netcoreapp3.1\Exercicio-Proposto-Conjuntos.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Proposto-Conjuntos\Exercicio-Proposto-Conjuntos\bin\Debug\netcoreapp3.1\Exercicio-Proposto-Conjuntos.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Proposto-Conjuntos\Exercicio-Proposto-Conjuntos\bin\Debug\netcoreapp3.1\Exercicio-Proposto-Conjuntos.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Proposto-Conjuntos\Exercicio-Proposto-Conjuntos\obj\Debug\netcoreapp3.1\Exercicio-Proposto-Conjuntos.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Proposto-Conjuntos\Exercicio-Proposto-Conjuntos\obj\Debug\netcoreapp3.1\Exercicio-Proposto-Conjuntos.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Proposto-Conjuntos\Exercicio-Proposto-Conjuntos\obj\Debug\netcoreapp3.1\Exercicio-Proposto-Conjuntos.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Proposto-Conjuntos\Exercicio-Proposto-Conjuntos\obj\Debug\netcoreapp3.1\Exercicio-Proposto-Conjuntos.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Proposto-Conjuntos\Exercicio-Proposto-Conjuntos\obj\Debug\netcoreapp3.1\Exercicio-Proposto-Conjuntos.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Proposto-Conjuntos\Exercicio-Proposto-Conjuntos\obj\Debug\netcoreapp3.1\Exercicio-Proposto-Conjuntos.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Proposto-Conjuntos\Exercicio-Proposto-Conjuntos\obj\Debug\netcoreapp3.1\Exercicio-Proposto-Conjuntos.genruntimeconfig.cache

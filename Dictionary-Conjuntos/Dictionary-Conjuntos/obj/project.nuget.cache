@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0r/9TIM2/D4TqRxg0rzP7eAEDVTZiMhhJ/DV5Yl6T5Pg4Mttw527RklodHwH4WtaVmiRVI0c0KVA3oLRU5jCjg==",
+  "success": true,
+  "projectFilePath": "C:\\DesenvolvimentoMayara\\Csharp-POO\\Dictionary-Conjuntos\\Dictionary-Conjuntos\\Dictionary-Conjuntos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Larissa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

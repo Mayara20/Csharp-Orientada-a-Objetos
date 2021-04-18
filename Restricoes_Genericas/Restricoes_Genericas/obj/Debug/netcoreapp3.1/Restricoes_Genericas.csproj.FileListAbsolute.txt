@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\Csharp-POO\Restricoes_Genericas\Restricoes_Genericas\bin\Debug\netcoreapp3.1\Restricoes_Genericas.exe
+C:\DesenvolvimentoMayara\Csharp-POO\Restricoes_Genericas\Restricoes_Genericas\bin\Debug\netcoreapp3.1\Restricoes_Genericas.deps.json
+C:\DesenvolvimentoMayara\Csharp-POO\Restricoes_Genericas\Restricoes_Genericas\bin\Debug\netcoreapp3.1\Restricoes_Genericas.runtimeconfig.json
+C:\DesenvolvimentoMayara\Csharp-POO\Restricoes_Genericas\Restricoes_Genericas\bin\Debug\netcoreapp3.1\Restricoes_Genericas.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\Csharp-POO\Restricoes_Genericas\Restricoes_Genericas\bin\Debug\netcoreapp3.1\Restricoes_Genericas.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Restricoes_Genericas\Restricoes_Genericas\bin\Debug\netcoreapp3.1\Restricoes_Genericas.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Restricoes_Genericas\Restricoes_Genericas\obj\Debug\netcoreapp3.1\Restricoes_Genericas.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Restricoes_Genericas\Restricoes_Genericas\obj\Debug\netcoreapp3.1\Restricoes_Genericas.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Restricoes_Genericas\Restricoes_Genericas\obj\Debug\netcoreapp3.1\Restricoes_Genericas.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\Csharp-POO\Restricoes_Genericas\Restricoes_Genericas\obj\Debug\netcoreapp3.1\Restricoes_Genericas.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Restricoes_Genericas\Restricoes_Genericas\obj\Debug\netcoreapp3.1\Restricoes_Genericas.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Restricoes_Genericas\Restricoes_Genericas\obj\Debug\netcoreapp3.1\Restricoes_Genericas.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Restricoes_Genericas\Restricoes_Genericas\obj\Debug\netcoreapp3.1\Restricoes_Genericas.genruntimeconfig.cache

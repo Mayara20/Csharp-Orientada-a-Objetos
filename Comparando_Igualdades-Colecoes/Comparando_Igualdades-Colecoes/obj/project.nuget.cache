@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "00RBAYyJyZgsEGm3PP7ZkQIyHQPjJx1Q+EM/EFUhY4pLm55zWhCJVaNWrTgrnye0ygXgKVvoh4lrm2t4Zyb8aQ==",
+  "success": true,
+  "projectFilePath": "C:\\DesenvolvimentoMayara\\Csharp-POO\\Comparando_Igualdades-Colecoes\\Comparando_Igualdades-Colecoes\\Comparando_Igualdades-Colecoes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Larissa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

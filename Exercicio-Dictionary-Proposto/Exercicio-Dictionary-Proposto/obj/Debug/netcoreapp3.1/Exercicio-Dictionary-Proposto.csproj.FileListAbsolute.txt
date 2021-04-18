@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Dictionary-Proposto\Exercicio-Dictionary-Proposto\bin\Debug\netcoreapp3.1\Exercicio-Dictionary-Proposto.exe
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Dictionary-Proposto\Exercicio-Dictionary-Proposto\bin\Debug\netcoreapp3.1\Exercicio-Dictionary-Proposto.deps.json
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Dictionary-Proposto\Exercicio-Dictionary-Proposto\bin\Debug\netcoreapp3.1\Exercicio-Dictionary-Proposto.runtimeconfig.json
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Dictionary-Proposto\Exercicio-Dictionary-Proposto\bin\Debug\netcoreapp3.1\Exercicio-Dictionary-Proposto.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Dictionary-Proposto\Exercicio-Dictionary-Proposto\bin\Debug\netcoreapp3.1\Exercicio-Dictionary-Proposto.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Dictionary-Proposto\Exercicio-Dictionary-Proposto\bin\Debug\netcoreapp3.1\Exercicio-Dictionary-Proposto.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Dictionary-Proposto\Exercicio-Dictionary-Proposto\obj\Debug\netcoreapp3.1\Exercicio-Dictionary-Proposto.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Dictionary-Proposto\Exercicio-Dictionary-Proposto\obj\Debug\netcoreapp3.1\Exercicio-Dictionary-Proposto.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Dictionary-Proposto\Exercicio-Dictionary-Proposto\obj\Debug\netcoreapp3.1\Exercicio-Dictionary-Proposto.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Dictionary-Proposto\Exercicio-Dictionary-Proposto\obj\Debug\netcoreapp3.1\Exercicio-Dictionary-Proposto.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Dictionary-Proposto\Exercicio-Dictionary-Proposto\obj\Debug\netcoreapp3.1\Exercicio-Dictionary-Proposto.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Dictionary-Proposto\Exercicio-Dictionary-Proposto\obj\Debug\netcoreapp3.1\Exercicio-Dictionary-Proposto.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Dictionary-Proposto\Exercicio-Dictionary-Proposto\obj\Debug\netcoreapp3.1\Exercicio-Dictionary-Proposto.genruntimeconfig.cache

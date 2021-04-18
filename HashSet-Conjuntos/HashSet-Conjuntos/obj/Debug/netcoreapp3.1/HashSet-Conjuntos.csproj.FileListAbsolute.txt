@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\Csharp-POO\HashSet-Conjuntos\HashSet-Conjuntos\bin\Debug\netcoreapp3.1\HashSet-Conjuntos.exe
+C:\DesenvolvimentoMayara\Csharp-POO\HashSet-Conjuntos\HashSet-Conjuntos\bin\Debug\netcoreapp3.1\HashSet-Conjuntos.deps.json
+C:\DesenvolvimentoMayara\Csharp-POO\HashSet-Conjuntos\HashSet-Conjuntos\bin\Debug\netcoreapp3.1\HashSet-Conjuntos.runtimeconfig.json
+C:\DesenvolvimentoMayara\Csharp-POO\HashSet-Conjuntos\HashSet-Conjuntos\bin\Debug\netcoreapp3.1\HashSet-Conjuntos.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\Csharp-POO\HashSet-Conjuntos\HashSet-Conjuntos\bin\Debug\netcoreapp3.1\HashSet-Conjuntos.dll
+C:\DesenvolvimentoMayara\Csharp-POO\HashSet-Conjuntos\HashSet-Conjuntos\bin\Debug\netcoreapp3.1\HashSet-Conjuntos.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\HashSet-Conjuntos\HashSet-Conjuntos\obj\Debug\netcoreapp3.1\HashSet-Conjuntos.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\Csharp-POO\HashSet-Conjuntos\HashSet-Conjuntos\obj\Debug\netcoreapp3.1\HashSet-Conjuntos.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\HashSet-Conjuntos\HashSet-Conjuntos\obj\Debug\netcoreapp3.1\HashSet-Conjuntos.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\Csharp-POO\HashSet-Conjuntos\HashSet-Conjuntos\obj\Debug\netcoreapp3.1\HashSet-Conjuntos.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\HashSet-Conjuntos\HashSet-Conjuntos\obj\Debug\netcoreapp3.1\HashSet-Conjuntos.dll
+C:\DesenvolvimentoMayara\Csharp-POO\HashSet-Conjuntos\HashSet-Conjuntos\obj\Debug\netcoreapp3.1\HashSet-Conjuntos.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\HashSet-Conjuntos\HashSet-Conjuntos\obj\Debug\netcoreapp3.1\HashSet-Conjuntos.genruntimeconfig.cache

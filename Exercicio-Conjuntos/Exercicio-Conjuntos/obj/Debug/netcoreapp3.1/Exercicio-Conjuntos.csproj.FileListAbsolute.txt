@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Conjuntos\Exercicio-Conjuntos\bin\Debug\netcoreapp3.1\Exercicio-Conjuntos.exe
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Conjuntos\Exercicio-Conjuntos\bin\Debug\netcoreapp3.1\Exercicio-Conjuntos.deps.json
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Conjuntos\Exercicio-Conjuntos\bin\Debug\netcoreapp3.1\Exercicio-Conjuntos.runtimeconfig.json
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Conjuntos\Exercicio-Conjuntos\bin\Debug\netcoreapp3.1\Exercicio-Conjuntos.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Conjuntos\Exercicio-Conjuntos\bin\Debug\netcoreapp3.1\Exercicio-Conjuntos.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Conjuntos\Exercicio-Conjuntos\bin\Debug\netcoreapp3.1\Exercicio-Conjuntos.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Conjuntos\Exercicio-Conjuntos\obj\Debug\netcoreapp3.1\Exercicio-Conjuntos.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Conjuntos\Exercicio-Conjuntos\obj\Debug\netcoreapp3.1\Exercicio-Conjuntos.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Conjuntos\Exercicio-Conjuntos\obj\Debug\netcoreapp3.1\Exercicio-Conjuntos.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Conjuntos\Exercicio-Conjuntos\obj\Debug\netcoreapp3.1\Exercicio-Conjuntos.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Conjuntos\Exercicio-Conjuntos\obj\Debug\netcoreapp3.1\Exercicio-Conjuntos.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Conjuntos\Exercicio-Conjuntos\obj\Debug\netcoreapp3.1\Exercicio-Conjuntos.genruntimeconfig.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Conjuntos\Exercicio-Conjuntos\obj\Debug\netcoreapp3.1\Exercicio-Conjuntos.csprojAssemblyReference.cache

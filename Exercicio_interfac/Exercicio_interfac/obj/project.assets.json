@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DesenvolvimentoMayara\\Csharp-POO\\Exercicio_interfac\\Exercicio_interfac\\Exercicio_interfac.csproj",
+      "projectUniqueName": "C:\\DesenvolvimentoMayara\\Csharp-POO\\Csharp-Orientada-a-Objetos\\Exercicio_interfac\\Exercicio_interfac\\Exercicio_interfac.csproj",
       "projectName": "Exercicio_interfac",
-      "projectPath": "C:\\DesenvolvimentoMayara\\Csharp-POO\\Exercicio_interfac\\Exercicio_interfac\\Exercicio_interfac.csproj",
+      "projectPath": "C:\\DesenvolvimentoMayara\\Csharp-POO\\Csharp-Orientada-a-Objetos\\Exercicio_interfac\\Exercicio_interfac\\Exercicio_interfac.csproj",
       "packagesPath": "C:\\Users\\Larissa\\.nuget\\packages\\",
-      "outputPath": "C:\\DesenvolvimentoMayara\\Csharp-POO\\Exercicio_interfac\\Exercicio_interfac\\obj\\",
+      "outputPath": "C:\\DesenvolvimentoMayara\\Csharp-POO\\Csharp-Orientada-a-Objetos\\Exercicio_interfac\\Exercicio_interfac\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Larissa\\AppData\\Roaming\\NuGet\\NuGet.Config",

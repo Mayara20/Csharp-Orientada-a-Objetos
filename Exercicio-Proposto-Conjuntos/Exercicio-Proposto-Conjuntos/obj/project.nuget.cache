@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "me/CN4H/lhzIQYQXHqlK7Wa3yaju1xfydXqsALeEwY9KEm3VsMJMnfdPKKJhzIft4UoAwXa/2G+9FcnipgIJtQ==",
+  "success": true,
+  "projectFilePath": "C:\\DesenvolvimentoMayara\\Csharp-POO\\Exercicio-Proposto-Conjuntos\\Exercicio-Proposto-Conjuntos\\Exercicio-Proposto-Conjuntos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Larissa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

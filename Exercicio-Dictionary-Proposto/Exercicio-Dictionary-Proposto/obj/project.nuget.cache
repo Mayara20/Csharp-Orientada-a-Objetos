@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "K36lj3oPGe/7T4JXwsUkrRH1s5jAOX2FdFfcDI7BO2TiLKr2KQrNPDVtbN3UTqUdgmNaL3jSVrzeNzVLeKOa2Q==",
+  "success": true,
+  "projectFilePath": "C:\\DesenvolvimentoMayara\\Csharp-POO\\Exercicio-Dictionary-Proposto\\Exercicio-Dictionary-Proposto\\Exercicio-Dictionary-Proposto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Larissa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
