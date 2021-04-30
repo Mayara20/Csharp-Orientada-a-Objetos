@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\Csharp-POO\Extensão-de-Metodos\Extensão-de-Metodos\bin\Debug\netcoreapp3.1\Extensão-de-Metodos.exe
+C:\DesenvolvimentoMayara\Csharp-POO\Extensão-de-Metodos\Extensão-de-Metodos\bin\Debug\netcoreapp3.1\Extensão-de-Metodos.deps.json
+C:\DesenvolvimentoMayara\Csharp-POO\Extensão-de-Metodos\Extensão-de-Metodos\bin\Debug\netcoreapp3.1\Extensão-de-Metodos.runtimeconfig.json
+C:\DesenvolvimentoMayara\Csharp-POO\Extensão-de-Metodos\Extensão-de-Metodos\bin\Debug\netcoreapp3.1\Extensão-de-Metodos.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\Csharp-POO\Extensão-de-Metodos\Extensão-de-Metodos\bin\Debug\netcoreapp3.1\Extensão-de-Metodos.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Extensão-de-Metodos\Extensão-de-Metodos\bin\Debug\netcoreapp3.1\Extensão-de-Metodos.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Extensão-de-Metodos\Extensão-de-Metodos\obj\Debug\netcoreapp3.1\Extensão-de-Metodos.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Extensão-de-Metodos\Extensão-de-Metodos\obj\Debug\netcoreapp3.1\Extensão-de-Metodos.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Extensão-de-Metodos\Extensão-de-Metodos\obj\Debug\netcoreapp3.1\Extensão-de-Metodos.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\Csharp-POO\Extensão-de-Metodos\Extensão-de-Metodos\obj\Debug\netcoreapp3.1\Extensão-de-Metodos.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Extensão-de-Metodos\Extensão-de-Metodos\obj\Debug\netcoreapp3.1\Extensão-de-Metodos.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Extensão-de-Metodos\Extensão-de-Metodos\obj\Debug\netcoreapp3.1\Extensão-de-Metodos.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Extensão-de-Metodos\Extensão-de-Metodos\obj\Debug\netcoreapp3.1\Extensão-de-Metodos.genruntimeconfig.cache

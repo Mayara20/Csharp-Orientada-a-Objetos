@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Fixacao-Lambda\Exercicio-Fixacao-Lambda\bin\Debug\netcoreapp3.1\Exercicio-Fixacao-Lambda.exe
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Fixacao-Lambda\Exercicio-Fixacao-Lambda\bin\Debug\netcoreapp3.1\Exercicio-Fixacao-Lambda.deps.json
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Fixacao-Lambda\Exercicio-Fixacao-Lambda\bin\Debug\netcoreapp3.1\Exercicio-Fixacao-Lambda.runtimeconfig.json
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Fixacao-Lambda\Exercicio-Fixacao-Lambda\bin\Debug\netcoreapp3.1\Exercicio-Fixacao-Lambda.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Fixacao-Lambda\Exercicio-Fixacao-Lambda\bin\Debug\netcoreapp3.1\Exercicio-Fixacao-Lambda.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Fixacao-Lambda\Exercicio-Fixacao-Lambda\bin\Debug\netcoreapp3.1\Exercicio-Fixacao-Lambda.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Fixacao-Lambda\Exercicio-Fixacao-Lambda\obj\Debug\netcoreapp3.1\Exercicio-Fixacao-Lambda.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Fixacao-Lambda\Exercicio-Fixacao-Lambda\obj\Debug\netcoreapp3.1\Exercicio-Fixacao-Lambda.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Fixacao-Lambda\Exercicio-Fixacao-Lambda\obj\Debug\netcoreapp3.1\Exercicio-Fixacao-Lambda.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Fixacao-Lambda\Exercicio-Fixacao-Lambda\obj\Debug\netcoreapp3.1\Exercicio-Fixacao-Lambda.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Fixacao-Lambda\Exercicio-Fixacao-Lambda\obj\Debug\netcoreapp3.1\Exercicio-Fixacao-Lambda.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Fixacao-Lambda\Exercicio-Fixacao-Lambda\obj\Debug\netcoreapp3.1\Exercicio-Fixacao-Lambda.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Exercicio-Fixacao-Lambda\Exercicio-Fixacao-Lambda\obj\Debug\netcoreapp3.1\Exercicio-Fixacao-Lambda.genruntimeconfig.cache

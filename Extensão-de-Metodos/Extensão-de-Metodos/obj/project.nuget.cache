@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sEpbBkV7ByPxk0jfuyAQ8x5piz7JwCqEEiMfQgXjS+iZ1FsWR1B8QShisqaBu6j9rKqsNj04EbiLZL94E3//VA==",
+  "success": true,
+  "projectFilePath": "C:\\DesenvolvimentoMayara\\Csharp-POO\\Extensão-de-Metodos\\Extensão-de-Metodos\\Extensão-de-Metodos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Larissa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

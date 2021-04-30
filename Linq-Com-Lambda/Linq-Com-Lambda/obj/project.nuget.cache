@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fy5PC8j7shUL8wSEcP53ThfIDYasPYuvxfgfr82i/0OwS3VCQDE3efBuY3O+Le7OSsyDyx09jiSMsBVDec+0lQ==",
+  "success": true,
+  "projectFilePath": "C:\\DesenvolvimentoMayara\\Csharp-POO\\Linq-Com-Lambda\\Linq-Com-Lambda\\Linq-Com-Lambda.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Larissa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

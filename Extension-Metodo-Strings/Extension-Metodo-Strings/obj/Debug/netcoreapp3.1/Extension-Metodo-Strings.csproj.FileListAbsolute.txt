@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\Csharp-POO\Extension-Metodo-Strings\Extension-Metodo-Strings\bin\Debug\netcoreapp3.1\Extension-Metodo-Strings.exe
+C:\DesenvolvimentoMayara\Csharp-POO\Extension-Metodo-Strings\Extension-Metodo-Strings\bin\Debug\netcoreapp3.1\Extension-Metodo-Strings.deps.json
+C:\DesenvolvimentoMayara\Csharp-POO\Extension-Metodo-Strings\Extension-Metodo-Strings\bin\Debug\netcoreapp3.1\Extension-Metodo-Strings.runtimeconfig.json
+C:\DesenvolvimentoMayara\Csharp-POO\Extension-Metodo-Strings\Extension-Metodo-Strings\bin\Debug\netcoreapp3.1\Extension-Metodo-Strings.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\Csharp-POO\Extension-Metodo-Strings\Extension-Metodo-Strings\bin\Debug\netcoreapp3.1\Extension-Metodo-Strings.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Extension-Metodo-Strings\Extension-Metodo-Strings\bin\Debug\netcoreapp3.1\Extension-Metodo-Strings.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Extension-Metodo-Strings\Extension-Metodo-Strings\obj\Debug\netcoreapp3.1\Extension-Metodo-Strings.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Extension-Metodo-Strings\Extension-Metodo-Strings\obj\Debug\netcoreapp3.1\Extension-Metodo-Strings.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Extension-Metodo-Strings\Extension-Metodo-Strings\obj\Debug\netcoreapp3.1\Extension-Metodo-Strings.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\Csharp-POO\Extension-Metodo-Strings\Extension-Metodo-Strings\obj\Debug\netcoreapp3.1\Extension-Metodo-Strings.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Extension-Metodo-Strings\Extension-Metodo-Strings\obj\Debug\netcoreapp3.1\Extension-Metodo-Strings.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Extension-Metodo-Strings\Extension-Metodo-Strings\obj\Debug\netcoreapp3.1\Extension-Metodo-Strings.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Extension-Metodo-Strings\Extension-Metodo-Strings\obj\Debug\netcoreapp3.1\Extension-Metodo-Strings.genruntimeconfig.cache

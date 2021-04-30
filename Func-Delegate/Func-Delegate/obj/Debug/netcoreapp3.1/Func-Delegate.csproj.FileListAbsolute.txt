@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\Csharp-POO\Func-Delegate\Func-Delegate\bin\Debug\netcoreapp3.1\Func-Delegate.exe
+C:\DesenvolvimentoMayara\Csharp-POO\Func-Delegate\Func-Delegate\bin\Debug\netcoreapp3.1\Func-Delegate.deps.json
+C:\DesenvolvimentoMayara\Csharp-POO\Func-Delegate\Func-Delegate\bin\Debug\netcoreapp3.1\Func-Delegate.runtimeconfig.json
+C:\DesenvolvimentoMayara\Csharp-POO\Func-Delegate\Func-Delegate\bin\Debug\netcoreapp3.1\Func-Delegate.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\Csharp-POO\Func-Delegate\Func-Delegate\bin\Debug\netcoreapp3.1\Func-Delegate.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Func-Delegate\Func-Delegate\bin\Debug\netcoreapp3.1\Func-Delegate.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Func-Delegate\Func-Delegate\obj\Debug\netcoreapp3.1\Func-Delegate.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Func-Delegate\Func-Delegate\obj\Debug\netcoreapp3.1\Func-Delegate.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Func-Delegate\Func-Delegate\obj\Debug\netcoreapp3.1\Func-Delegate.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\Csharp-POO\Func-Delegate\Func-Delegate\obj\Debug\netcoreapp3.1\Func-Delegate.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Func-Delegate\Func-Delegate\obj\Debug\netcoreapp3.1\Func-Delegate.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Func-Delegate\Func-Delegate\obj\Debug\netcoreapp3.1\Func-Delegate.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Func-Delegate\Func-Delegate\obj\Debug\netcoreapp3.1\Func-Delegate.genruntimeconfig.cache

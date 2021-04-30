@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dZwG58KtT+gZBdh1UlB8yhLVSUSk6wA1ArJ+PMsJ4b4uv6XVtKdJH+dNjsQRDqV4Xa2AkzPNIlAUztFMDr7jOA==",
+  "success": true,
+  "projectFilePath": "C:\\DesenvolvimentoMayara\\Csharp-POO\\Comparison\\Comparison\\Comparison.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Larissa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

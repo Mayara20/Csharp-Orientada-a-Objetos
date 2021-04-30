@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DesenvolvimentoMayara\\Csharp-POO\\Enum1\\Enum1\\Enum1.csproj": {}
+    "C:\\DesenvolvimentoMayara\\Csharp-POO\\Csharp-Orientada-a-Objetos\\Enum1\\Enum1\\Enum1.csproj": {}
   },
   "projects": {
-    "C:\\DesenvolvimentoMayara\\Csharp-POO\\Enum1\\Enum1\\Enum1.csproj": {
+    "C:\\DesenvolvimentoMayara\\Csharp-POO\\Csharp-Orientada-a-Objetos\\Enum1\\Enum1\\Enum1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DesenvolvimentoMayara\\Csharp-POO\\Enum1\\Enum1\\Enum1.csproj",
+        "projectUniqueName": "C:\\DesenvolvimentoMayara\\Csharp-POO\\Csharp-Orientada-a-Objetos\\Enum1\\Enum1\\Enum1.csproj",
         "projectName": "Enum1",
-        "projectPath": "C:\\DesenvolvimentoMayara\\Csharp-POO\\Enum1\\Enum1\\Enum1.csproj",
+        "projectPath": "C:\\DesenvolvimentoMayara\\Csharp-POO\\Csharp-Orientada-a-Objetos\\Enum1\\Enum1\\Enum1.csproj",
         "packagesPath": "C:\\Users\\Larissa\\.nuget\\packages\\",
-        "outputPath": "C:\\DesenvolvimentoMayara\\Csharp-POO\\Enum1\\Enum1\\obj\\",
+        "outputPath": "C:\\DesenvolvimentoMayara\\Csharp-POO\\Csharp-Orientada-a-Objetos\\Enum1\\Enum1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Larissa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -49,6 +49,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.13, 3.1.13]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"

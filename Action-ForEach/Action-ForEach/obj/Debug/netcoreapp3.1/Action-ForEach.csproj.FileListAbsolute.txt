@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\Csharp-POO\Action-ForEach\Action-ForEach\bin\Debug\netcoreapp3.1\Action-ForEach.exe
+C:\DesenvolvimentoMayara\Csharp-POO\Action-ForEach\Action-ForEach\bin\Debug\netcoreapp3.1\Action-ForEach.deps.json
+C:\DesenvolvimentoMayara\Csharp-POO\Action-ForEach\Action-ForEach\bin\Debug\netcoreapp3.1\Action-ForEach.runtimeconfig.json
+C:\DesenvolvimentoMayara\Csharp-POO\Action-ForEach\Action-ForEach\bin\Debug\netcoreapp3.1\Action-ForEach.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\Csharp-POO\Action-ForEach\Action-ForEach\bin\Debug\netcoreapp3.1\Action-ForEach.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Action-ForEach\Action-ForEach\bin\Debug\netcoreapp3.1\Action-ForEach.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Action-ForEach\Action-ForEach\obj\Debug\netcoreapp3.1\Action-ForEach.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Action-ForEach\Action-ForEach\obj\Debug\netcoreapp3.1\Action-ForEach.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Action-ForEach\Action-ForEach\obj\Debug\netcoreapp3.1\Action-ForEach.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\Csharp-POO\Action-ForEach\Action-ForEach\obj\Debug\netcoreapp3.1\Action-ForEach.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Action-ForEach\Action-ForEach\obj\Debug\netcoreapp3.1\Action-ForEach.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Action-ForEach\Action-ForEach\obj\Debug\netcoreapp3.1\Action-ForEach.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Action-ForEach\Action-ForEach\obj\Debug\netcoreapp3.1\Action-ForEach.genruntimeconfig.cache

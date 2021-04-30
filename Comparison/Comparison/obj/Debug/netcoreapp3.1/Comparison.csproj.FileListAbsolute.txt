@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\Csharp-POO\Comparison\Comparison\bin\Debug\netcoreapp3.1\Comparison.exe
+C:\DesenvolvimentoMayara\Csharp-POO\Comparison\Comparison\bin\Debug\netcoreapp3.1\Comparison.deps.json
+C:\DesenvolvimentoMayara\Csharp-POO\Comparison\Comparison\bin\Debug\netcoreapp3.1\Comparison.runtimeconfig.json
+C:\DesenvolvimentoMayara\Csharp-POO\Comparison\Comparison\bin\Debug\netcoreapp3.1\Comparison.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\Csharp-POO\Comparison\Comparison\bin\Debug\netcoreapp3.1\Comparison.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Comparison\Comparison\bin\Debug\netcoreapp3.1\Comparison.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Comparison\Comparison\obj\Debug\netcoreapp3.1\Comparison.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Comparison\Comparison\obj\Debug\netcoreapp3.1\Comparison.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Comparison\Comparison\obj\Debug\netcoreapp3.1\Comparison.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\Csharp-POO\Comparison\Comparison\obj\Debug\netcoreapp3.1\Comparison.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Comparison\Comparison\obj\Debug\netcoreapp3.1\Comparison.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Comparison\Comparison\obj\Debug\netcoreapp3.1\Comparison.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Comparison\Comparison\obj\Debug\netcoreapp3.1\Comparison.genruntimeconfig.cache

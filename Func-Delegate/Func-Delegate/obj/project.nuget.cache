@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "10zV0VZrCZJCm9WZjTS9Nvbr582EAkMcklruj2go0u/tDBkS5nYMhDvwg/VYhKmgbLhwGNxdZrjuTNxqzQo8rw==",
+  "success": true,
+  "projectFilePath": "C:\\DesenvolvimentoMayara\\Csharp-POO\\Func-Delegate\\Func-Delegate\\Func-Delegate.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Larissa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

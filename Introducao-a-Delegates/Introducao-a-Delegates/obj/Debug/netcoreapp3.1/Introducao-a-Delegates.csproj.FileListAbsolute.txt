@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\Csharp-POO\Introducao-a-Delegates\Introducao-a-Delegates\bin\Debug\netcoreapp3.1\Introducao-a-Delegates.exe
+C:\DesenvolvimentoMayara\Csharp-POO\Introducao-a-Delegates\Introducao-a-Delegates\bin\Debug\netcoreapp3.1\Introducao-a-Delegates.deps.json
+C:\DesenvolvimentoMayara\Csharp-POO\Introducao-a-Delegates\Introducao-a-Delegates\bin\Debug\netcoreapp3.1\Introducao-a-Delegates.runtimeconfig.json
+C:\DesenvolvimentoMayara\Csharp-POO\Introducao-a-Delegates\Introducao-a-Delegates\bin\Debug\netcoreapp3.1\Introducao-a-Delegates.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\Csharp-POO\Introducao-a-Delegates\Introducao-a-Delegates\bin\Debug\netcoreapp3.1\Introducao-a-Delegates.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Introducao-a-Delegates\Introducao-a-Delegates\bin\Debug\netcoreapp3.1\Introducao-a-Delegates.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Introducao-a-Delegates\Introducao-a-Delegates\obj\Debug\netcoreapp3.1\Introducao-a-Delegates.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Introducao-a-Delegates\Introducao-a-Delegates\obj\Debug\netcoreapp3.1\Introducao-a-Delegates.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Introducao-a-Delegates\Introducao-a-Delegates\obj\Debug\netcoreapp3.1\Introducao-a-Delegates.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\Csharp-POO\Introducao-a-Delegates\Introducao-a-Delegates\obj\Debug\netcoreapp3.1\Introducao-a-Delegates.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Introducao-a-Delegates\Introducao-a-Delegates\obj\Debug\netcoreapp3.1\Introducao-a-Delegates.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Introducao-a-Delegates\Introducao-a-Delegates\obj\Debug\netcoreapp3.1\Introducao-a-Delegates.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Introducao-a-Delegates\Introducao-a-Delegates\obj\Debug\netcoreapp3.1\Introducao-a-Delegates.genruntimeconfig.cache

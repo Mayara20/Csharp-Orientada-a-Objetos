@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\Csharp-POO\Linq-Introducao\Linq-Introducao\bin\Debug\netcoreapp3.1\Linq-Introducao.exe
+C:\DesenvolvimentoMayara\Csharp-POO\Linq-Introducao\Linq-Introducao\bin\Debug\netcoreapp3.1\Linq-Introducao.deps.json
+C:\DesenvolvimentoMayara\Csharp-POO\Linq-Introducao\Linq-Introducao\bin\Debug\netcoreapp3.1\Linq-Introducao.runtimeconfig.json
+C:\DesenvolvimentoMayara\Csharp-POO\Linq-Introducao\Linq-Introducao\bin\Debug\netcoreapp3.1\Linq-Introducao.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\Csharp-POO\Linq-Introducao\Linq-Introducao\bin\Debug\netcoreapp3.1\Linq-Introducao.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Linq-Introducao\Linq-Introducao\bin\Debug\netcoreapp3.1\Linq-Introducao.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Linq-Introducao\Linq-Introducao\obj\Debug\netcoreapp3.1\Linq-Introducao.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Linq-Introducao\Linq-Introducao\obj\Debug\netcoreapp3.1\Linq-Introducao.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Linq-Introducao\Linq-Introducao\obj\Debug\netcoreapp3.1\Linq-Introducao.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\Csharp-POO\Linq-Introducao\Linq-Introducao\obj\Debug\netcoreapp3.1\Linq-Introducao.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Linq-Introducao\Linq-Introducao\obj\Debug\netcoreapp3.1\Linq-Introducao.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Linq-Introducao\Linq-Introducao\obj\Debug\netcoreapp3.1\Linq-Introducao.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Linq-Introducao\Linq-Introducao\obj\Debug\netcoreapp3.1\Linq-Introducao.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\Csharp-POO\Linq-Com-Lambda\Linq-Com-Lambda\bin\Debug\netcoreapp3.1\Linq-Com-Lambda.exe
+C:\DesenvolvimentoMayara\Csharp-POO\Linq-Com-Lambda\Linq-Com-Lambda\bin\Debug\netcoreapp3.1\Linq-Com-Lambda.deps.json
+C:\DesenvolvimentoMayara\Csharp-POO\Linq-Com-Lambda\Linq-Com-Lambda\bin\Debug\netcoreapp3.1\Linq-Com-Lambda.runtimeconfig.json
+C:\DesenvolvimentoMayara\Csharp-POO\Linq-Com-Lambda\Linq-Com-Lambda\bin\Debug\netcoreapp3.1\Linq-Com-Lambda.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\Csharp-POO\Linq-Com-Lambda\Linq-Com-Lambda\bin\Debug\netcoreapp3.1\Linq-Com-Lambda.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Linq-Com-Lambda\Linq-Com-Lambda\bin\Debug\netcoreapp3.1\Linq-Com-Lambda.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Linq-Com-Lambda\Linq-Com-Lambda\obj\Debug\netcoreapp3.1\Linq-Com-Lambda.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Linq-Com-Lambda\Linq-Com-Lambda\obj\Debug\netcoreapp3.1\Linq-Com-Lambda.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Linq-Com-Lambda\Linq-Com-Lambda\obj\Debug\netcoreapp3.1\Linq-Com-Lambda.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\Csharp-POO\Linq-Com-Lambda\Linq-Com-Lambda\obj\Debug\netcoreapp3.1\Linq-Com-Lambda.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Linq-Com-Lambda\Linq-Com-Lambda\obj\Debug\netcoreapp3.1\Linq-Com-Lambda.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Linq-Com-Lambda\Linq-Com-Lambda\obj\Debug\netcoreapp3.1\Linq-Com-Lambda.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Linq-Com-Lambda\Linq-Com-Lambda\obj\Debug\netcoreapp3.1\Linq-Com-Lambda.genruntimeconfig.cache

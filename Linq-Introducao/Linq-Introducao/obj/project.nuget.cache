@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/SRmNIKhTDo3az1gIG9uJKrHIfBTsysz147oG7rdZT2xlwX1x8qiCIv47Wcsq2mRAu2vMoDTmaVBecUE8Z9PAA==",
+  "success": true,
+  "projectFilePath": "C:\\DesenvolvimentoMayara\\Csharp-POO\\Linq-Introducao\\Linq-Introducao\\Linq-Introducao.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Larissa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

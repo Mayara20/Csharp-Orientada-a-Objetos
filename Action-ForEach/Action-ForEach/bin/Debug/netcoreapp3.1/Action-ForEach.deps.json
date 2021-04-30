@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Action-ForEach/1.0.0": {
+        "runtime": {
+          "Action-ForEach.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Action-ForEach/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

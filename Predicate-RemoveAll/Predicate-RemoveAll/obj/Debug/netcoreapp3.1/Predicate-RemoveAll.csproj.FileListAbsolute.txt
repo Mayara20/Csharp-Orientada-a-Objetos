@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\Csharp-POO\Predicate-RemoveAll\Predicate-RemoveAll\bin\Debug\netcoreapp3.1\Predicate-RemoveAll.exe
+C:\DesenvolvimentoMayara\Csharp-POO\Predicate-RemoveAll\Predicate-RemoveAll\bin\Debug\netcoreapp3.1\Predicate-RemoveAll.deps.json
+C:\DesenvolvimentoMayara\Csharp-POO\Predicate-RemoveAll\Predicate-RemoveAll\bin\Debug\netcoreapp3.1\Predicate-RemoveAll.runtimeconfig.json
+C:\DesenvolvimentoMayara\Csharp-POO\Predicate-RemoveAll\Predicate-RemoveAll\bin\Debug\netcoreapp3.1\Predicate-RemoveAll.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\Csharp-POO\Predicate-RemoveAll\Predicate-RemoveAll\bin\Debug\netcoreapp3.1\Predicate-RemoveAll.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Predicate-RemoveAll\Predicate-RemoveAll\bin\Debug\netcoreapp3.1\Predicate-RemoveAll.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Predicate-RemoveAll\Predicate-RemoveAll\obj\Debug\netcoreapp3.1\Predicate-RemoveAll.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Predicate-RemoveAll\Predicate-RemoveAll\obj\Debug\netcoreapp3.1\Predicate-RemoveAll.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Predicate-RemoveAll\Predicate-RemoveAll\obj\Debug\netcoreapp3.1\Predicate-RemoveAll.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\Csharp-POO\Predicate-RemoveAll\Predicate-RemoveAll\obj\Debug\netcoreapp3.1\Predicate-RemoveAll.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\Csharp-POO\Predicate-RemoveAll\Predicate-RemoveAll\obj\Debug\netcoreapp3.1\Predicate-RemoveAll.dll
+C:\DesenvolvimentoMayara\Csharp-POO\Predicate-RemoveAll\Predicate-RemoveAll\obj\Debug\netcoreapp3.1\Predicate-RemoveAll.pdb
+C:\DesenvolvimentoMayara\Csharp-POO\Predicate-RemoveAll\Predicate-RemoveAll\obj\Debug\netcoreapp3.1\Predicate-RemoveAll.genruntimeconfig.cache

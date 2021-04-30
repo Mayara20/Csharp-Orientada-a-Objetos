@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "unn09sQof5XuPFEpgI6Fa0ZXyNzzrmI6uYCIuMLwiunlNJAJM/S2ErNme3+sNFYFMK1e4/Vhdu5S94FpL6j8kg==",
+  "dgSpecHash": "qMRN/czj8VWFdoiFmM6yWqRXeBXFivDfJsCmj2N7+/AfHgrKa69GUPAY7YJzrLpxbpgSGX4OL8J4Q7tcdoflxw==",
   "success": true,
-  "projectFilePath": "C:\\DesenvolvimentoMayara\\Csharp-POO\\Enum1\\Enum1\\Enum1.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\DesenvolvimentoMayara\\Csharp-POO\\Csharp-Orientada-a-Objetos\\Enum1\\Enum1\\Enum1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Larissa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
   "logs": []
 }
